@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" modified="2024-01-19T15:24:05.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WoxcdWE_wbxxNpKf4IF6" version="22.1.21" type="device">
+  <diagram name="Page-1" id="qHqsS2Qp47BwzDUpAq32">
+    <mxGraphModel dx="1490" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;" vertex="1" parent="1">
+          <mxGeometry x="50" y="400" width="680" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-3" value="Fight Cards API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="49" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-4" value="Fight Cards API could be replaced with the actual server if needed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="620" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-10" value="Betfair API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="64" y="268" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="189" y="240" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-12" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/CosmosDB.svg;" vertex="1" parent="1">
+          <mxGeometry x="318" y="232" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="116" y="430" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-17" value="- Betfair scheduler &lt;br&gt;- Fight inplay updater&lt;br&gt;- Fight result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="502" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-19" value="Cosmos DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="299" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_http_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="131" y="210" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_http_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="131" y="350" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.notification_hub;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="559" y="243" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-24" value="Azure Notifications Hub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="509" y="293" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="419" y="232" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-26" value="Cosmosdb &lt;br&gt;(change feed)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="403" y="298" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="679" y="230" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-28" value="Trigger Alarm on app" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="619" y="328" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-29" value="Ingestion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="189" y="300" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-30" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="276" y="430" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-31" value="dataset update" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="517" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-34" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="419" y="430" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-35" value="Fuzzy matching" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="398" y="517" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-36" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="570" y="430" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-37" value="Fight Results" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="559" y="517" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="150" y="204" width="29" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="270" as="sourcePoint" />
+            <mxPoint x="310" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="373.5" y="269.58" as="sourcePoint" />
+            <mxPoint x="413.5" y="269.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="268" as="sourcePoint" />
+            <mxPoint x="540" y="268" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

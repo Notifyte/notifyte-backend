@@ -1,19 +1,20 @@
 import datetime
 import logging
 import os
-
-from azure.cosmos import exceptions
+import sys
+sys.path.append("..")
 from shared_utilities.FightCards import FightCardsClient
 from azure.cosmos import CosmosClient
-
 import azure.functions as func
 
-conn_string = os.getenv("CosmosDbConnectionString") # app setting
+
 
 def main(mytimer: func.TimerRequest) -> None:
     utc_timestamp = datetime.datetime.utcnow().replace(
         tzinfo=datetime.timezone.utc).isoformat()
-
+        
+    conn_string = os.getenv("cosmosdb_deets") # app setting
+    
     FC_client = FightCardsClient()
     processed = FC_client.process_cards()
 

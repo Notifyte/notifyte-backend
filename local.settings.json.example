@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "cosmosdb_deets": "conn_str",
+    "betfair_delay_api_key": "",
+    "betfair_username": "",
+    "betfair_password": ""
+  }
+}

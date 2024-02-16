@@ -13,10 +13,9 @@ import os
 delay_api_key = os.getenv("betfair_delay_api_key") # app setting
 username = os.getenv("betfair_username") # app setting
 password = os.getenv("betfair_password") # app setting
+conn_string = os.getenv("cosmosdb_deets")
 
-event_id = 6 # mma
-conn_string = os.getenv("cosmosDbConnectionString")
-
+event_id = 26420387 # mma
 def main(mytimer: func.TimerRequest) -> None:
     utc_timestamp = datetime.datetime.utcnow().replace(
         tzinfo=datetime.timezone.utc).isoformat()
@@ -29,7 +28,7 @@ def main(mytimer: func.TimerRequest) -> None:
         
     events = bf_client.listEvents(event_id)
     data = bf_client.processEvents(events)
-    1
+
     storageClient = CosmosClient.from_connection_string(conn_str=conn_string)
     database = storageClient.get_database_client("fightstore")
     container = database.get_container_client("betfair_mma_events")

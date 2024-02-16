@@ -2,7 +2,6 @@ from datetime import datetime, timedelta
 import json
 import os
 from fuzzywuzzy import process
-import pandas as pd
 
 def find_next_weekend():
     # Get the current date
@@ -13,8 +12,10 @@ def find_next_weekend():
     next_saturday = current_date + timedelta(days=days_until_saturday)
     # # Calculate the date of the next Sunday
     next_sunday = next_saturday + timedelta(days=1)
+    
+    next_monday = next_saturday + timedelta(days=2)
 
-    return next_saturday.strftime('%Y-%m-%d'), next_sunday.strftime('%Y-%m-%d')
+    return next_saturday.strftime('%Y-%m-%d'), next_sunday.strftime('%Y-%m-%d'), next_monday.strftime('%Y-%m-%d')
 
 
 def fuzzy_match_dict_list(fight_cards, betfair_events, fc_key='name', bfe_key='name'):
@@ -76,17 +77,17 @@ def merge_output(event):
     
     
     
-    {'id': '32926453',
-  'name': 'JeongYeong Lee v Blake Bilder',
-  'countryCode': 'GB',
-  'timezone': 'GMT',
-  'openDate': '2024-02-03T21:55:00.000Z',
-  'betfair_event_id': '32926453',
-  '_rid': 'osU7APNWX8cRAAAAAAAAAA==',
-  '_self': 'dbs/osU7AA==/colls/osU7APNWX8c=/docs/osU7APNWX8cRAAAAAAAAAA==/',
-  '_etag': '"0300d31e-0000-1100-0000-65b046280000"',
-  '_attachments': 'attachments/',
-  '_ts': 1706051112},     
+#     {'id': '32926453',
+#   'name': 'JeongYeong Lee v Blake Bilder',
+#   'countryCode': 'GB',
+#   'timezone': 'GMT',
+#   'openDate': '2024-02-03T21:55:00.000Z',
+#   'betfair_event_id': '32926453',
+#   '_rid': 'osU7APNWX8cRAAAAAAAAAA==',
+#   '_self': 'dbs/osU7AA==/colls/osU7APNWX8c=/docs/osU7APNWX8cRAAAAAAAAAA==/',
+#   '_etag': '"0300d31e-0000-1100-0000-65b046280000"',
+#   '_attachments': 'attachments/',
+#   '_ts': 1706051112},     
 
 
 

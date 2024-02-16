@@ -1,25 +1,21 @@
 import datetime
 import logging
 import os
-
 import sys
 sys.path.append("..")
 from azure.cosmos import CosmosClient
 from shared_utilities import helpers
-
-
 import azure.functions as func
-
-
-
-conn_string = os.getenv("CosmosDbConnectionString")
-storageClient = CosmosClient.from_connection_string(conn_str=conn_string)
 
 
 
 def main(mytimer: func.TimerRequest) -> None:
     utc_timestamp = datetime.datetime.utcnow().replace(
         tzinfo=datetime.timezone.utc).isoformat()
+
+
+    conn_string = os.getenv("cosmosdb_deets")
+    storageClient = CosmosClient.from_connection_string(conn_str=conn_string)
     
     
     next_saturday, next_sunday = helpers.find_next_weekend()
@@ -50,20 +46,19 @@ def main(mytimer: func.TimerRequest) -> None:
     matched_cards, not_on_betfair = helpers.fuzzy_match_dict_list(cards, betfair_list, "fight_name" ,"name")
     
 
-    logging.info("NOT ON BETFAIR: "+not_on_betfair, utc_timestamp)
+    # logging.info("NOT ON BETFAIR: "+str(not_on_betfair), utc_timestamp) # log doesn't work, doesn't like the str concat
 
     
     for card in matched_cards:
         for fight in card["fights"]:
             operations =[
-                { "op": "add", "path": f"/fights/{str(fight["index"])}/betfair_event_id", "value": fight["betfair_event_id"] },
-                { "op": "add", "path": f"/fights/{str(fight["index"])}/betfair_country_code", "value": fight["betfair_country_code"] },
-                { "op": "add", "path": f"/fights/{str(fight["index"])}/betfair_open_date", "value": fight["betfair_open_date"] },
-                { "op": "add", "path": f"/fights/{str(fight["index"])}/betfair_timezone", "value": fight["betfair_timezone"] }
-            ]
+                { "op": "add", "path": "/fights/"+str(fight["index"])+"/betfair_event_id", "value": fight["betfair_event_id"] },
+                { "op": "add", "path": "/fights/"+str(fight["index"])+"/betfair_country_code", "value": fight["betfair_country_code"] },
+                { "op": "add", "path": "/fights/"+str(fight["index"])+"/betfair_open_date", "value": fight["betfair_open_date"] },
+                { "op": "add", "path": "/fights/"+str(fight["index"])+"/betfair_timezone", "value": fight["betfair_timezone"] }]
             
             response = fc_mma_cards.patch_item(item=card["id"], partition_key=card["link"], patch_operations=operations)
-            logging.info("PATCH RESPONSE: "+response, utc_timestamp)
+            # logging.info("PATCH RESPONSE: "+response, utc_timestamp) # log doesn't work, doesn't like the str concat
             
     
     
