@@ -1,0 +1,289 @@
+<mxfile host="app.diagrams.net" modified="2024-02-15T10:38:21.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="65j8XhBmTh_wODg1bnCT" version="23.0.1" type="device">
+  <diagram name="Page-1" id="qHqsS2Qp47BwzDUpAq32">
+    <mxGraphModel dx="3807" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-659" y="758" width="325" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-659" y="448" width="330" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;" parent="1" vertex="1">
+          <mxGeometry x="50" y="400" width="680" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-3" value="Fight Cards API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-4" value="Fight Cards API could be replaced with the actual server if needed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="620" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-329" y="160" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-329" y="300" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-10" value="Betfair API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-335" y="268" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="233" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-12" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/CosmosDB.svg;" parent="1" vertex="1">
+          <mxGeometry x="318" y="232" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
+          <mxGeometry x="116" y="430" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-17" value="- Betfair scheduler &lt;br&gt;- Fight inplay updater&lt;br&gt;- Fight result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="502" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-19" value="Cosmos DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="299" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_http_48px-128.png" parent="1" vertex="1">
+          <mxGeometry x="-268" y="210" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_http_48px-128.png" parent="1" vertex="1">
+          <mxGeometry x="131" y="350" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.notification_hub;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="559" y="243" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-24" value="Azure Notifications Hub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="509" y="293" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
+          <mxGeometry x="419" y="232" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-26" value="Cosmosdb &lt;br&gt;(change feed)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="403" y="298" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
+          <mxGeometry x="679" y="230" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-28" value="Trigger Alarm on app" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="619" y="328" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-29" value="Notifyte002&lt;br&gt;FC Ingestion&lt;br&gt;BF Ingestion&lt;br&gt;Cards enrichment (fuzzy)&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-827" y="508" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-30" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
+          <mxGeometry x="276" y="430" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-31" value="dataset update" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="260" y="517" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-34" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
+          <mxGeometry x="419" y="430" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-35" value="Fuzzy matching" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="398" y="517" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-36" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
+          <mxGeometry x="570" y="430" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-37" value="Fight Results" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="559" y="517" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="-249" y="204" width="29" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-41" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="270" as="sourcePoint" />
+            <mxPoint x="310" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-44" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="373.5" y="269.58" as="sourcePoint" />
+            <mxPoint x="413.5" y="269.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RZWsj0Uvr8mPHmV8aDf2-45" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="268" as="sourcePoint" />
+            <mxPoint x="540" y="268" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-1" value="Need some APIM. &lt;br&gt;So this should be it&#39;s own infra&lt;br&gt;- Caching for cosmosDb query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="368" y="120" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-2" value="Need to create betfair session token updater" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="180" y="680" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="300" as="sourcePoint" />
+            <mxPoint x="-210" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-6" value="Fight Cards Ingestion" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-639" y="458" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-7" value="FC / cosmos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-6" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-8" value="Run at 5 past the hour" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-6" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-9" value="Updates Cosmos table" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-6" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-10" value="Betfair Ingestion" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-489" y="458" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-11" value="(kv) / cosmos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-10" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-12" value="run on the hour" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-10" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-13" value="Writes directly to cosmos table every time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-10" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-14" value="Cards Enrichment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-559" y="588" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-15" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-14" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-16" value="Runs at 10 past the hour" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-14" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-17" value="Patch FC_Cards with bf data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-14" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-22" value="In player checker" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-563" y="778" width="140" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-23" value="Cron Timer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-22" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-24" value="Max timeout set to 10 mins" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-22" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-25" value="8.50 min loop checking each event has started." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-22" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPO6oM0pH5KyWb0bes64-6" value="Cron Trigger every 9 mins on weekend" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R7IFzBQSjyvE0gLAGWgc-22">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPO6oM0pH5KyWb0bes64-9" value="Writes to fc_mma_cards start time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R7IFzBQSjyvE0gLAGWgc-22">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPO6oM0pH5KyWb0bes64-10" value="&lt;b&gt;Also needs to trigger notificaiton&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R7IFzBQSjyvE0gLAGWgc-22">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-27" value="DataSet Refresher" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-664" y="420" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-29" value="InPlay Checker" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-664" y="728" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-298.5" y="525" width="325" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-31" value="?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-288.5" y="545" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-32" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-31" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-33" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-31" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-34" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-31" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-35" value="?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-128.5" y="545" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-36" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-35" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-37" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-35" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-38" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-35" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-39" value="Betfair Authenticator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-298.5" y="495" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7IFzBQSjyvE0gLAGWgc-40" value="&lt;b&gt;Currently this is in Betfair Ingestion. Should be more secure down the line&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="540" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-1" value="Deployed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="448" width="58.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1005" y="60" width="325" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-5" value="Infra Deployment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-995" y="80" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-6" value="Cosmos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="9zMGV_ne7uJBWCyzdSfv-5" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-7" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="9zMGV_ne7uJBWCyzdSfv-5" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-8" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="9zMGV_ne7uJBWCyzdSfv-5" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-9" value="App deployment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-835" y="80" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-10" value="create cosmos tables" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="9zMGV_ne7uJBWCyzdSfv-9" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-11" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="9zMGV_ne7uJBWCyzdSfv-9" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-12" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="9zMGV_ne7uJBWCyzdSfv-9" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-13" value="Infra Deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-1015" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9zMGV_ne7uJBWCyzdSfv-15" target="9zMGV_ne7uJBWCyzdSfv-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-15" value="betfair_mma_events" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="229" y="880" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-17" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="9zMGV_ne7uJBWCyzdSfv-15" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-18" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="9zMGV_ne7uJBWCyzdSfv-15" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-19" value="fc_mma_cards" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="469" y="880" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-21" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="9zMGV_ne7uJBWCyzdSfv-19" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-22" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="9zMGV_ne7uJBWCyzdSfv-19" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9zMGV_ne7uJBWCyzdSfv-23" value="Data Model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="369" y="840" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPO6oM0pH5KyWb0bes64-1" value="Deployed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="-547.5" y="448" width="58.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VPO6oM0pH5KyWb0bes64-4" value="Deployed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="580" width="58.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VPO6oM0pH5KyWb0bes64-7" value="Deployed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="-472" y="770" width="58.5" height="22" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
