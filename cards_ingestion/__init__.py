@@ -32,7 +32,7 @@ def main(mytimer: func.TimerRequest) -> None:
         query=f"select * from c where c.link = '{i['link']}'"
         
         # check if query iterator is empty.
-        if all(False for _ in container.query_items(query)):
+        if all(False for _ in container.query_items(query,enable_cross_partition_query= True)):
             container.create_item(i)
         else:
             print(f"item {i['link']} already exists.")

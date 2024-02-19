@@ -18,7 +18,7 @@ def main(mytimer: func.TimerRequest) -> None:
     storageClient = CosmosClient.from_connection_string(conn_str=conn_string)
     
     
-    next_saturday, next_sunday = helpers.find_next_weekend()
+    next_saturday, next_sunday, next_monday = helpers.find_next_weekend()
     # change second input '{next_saturday} and {next_sunday}' in the query below.
 
 

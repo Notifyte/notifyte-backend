@@ -60,7 +60,8 @@ def fuzzy_match_dict_list(fight_cards, betfair_events, fc_key='name', bfe_key='n
                 specific_card["fights"].append(merged_dict)
             else:
                 mismatches1.append(fight)
-        matched_cards.append(specific_card)
+        if specific_card["fights"] != []:
+            matched_cards.append(specific_card)
         
     # mismatches2 = [event for event in betfair_events if all(fight[fc_key] != event[bfe_key] for fight in card["fights"])] # This gives wrong mismatches
     return matched_cards, mismatches1
