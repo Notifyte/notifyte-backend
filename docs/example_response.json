@@ -1,0 +1,2906 @@
+{
+    "id": "response1",
+    "data": [
+        {
+            "title": "RIZIN LANDMARK 8 in SAGA",
+            "date": "Saturday, February 24, 12:00 AM ET",
+            "link": "https://www.tapology.com/fightcenter/events/109005-rizin-landmark-8-in-saga",
+            "fights": [
+                {
+                    "main": true,
+                    "weight": "157",
+                    "fighterA": {
+                        "name": "Luiz Gustavo",
+                        "record": "12-2-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/93025/icon/killer2.jpg?1511318028",
+                        "link": "https://www.tapology.com/fightcenter/fighters/93025-luiz-gustavo-killer"
+                    },
+                    "fighterB": {
+                        "name": "Yoshinori Horie",
+                        "record": "12-3-0",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/137641/icon/Yoshinori_Horie.jpg?1562264488",
+                        "link": "https://www.tapology.com/fightcenter/fighters/137641-yoshinori-horie"
+                    },
+                    "fight_name": "Luiz Gustavo v Yoshinori Horie",
+                    "id": "2556239218025411881",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "146",
+                    "fighterA": {
+                        "name": "Vugar Karamov",
+                        "record": "19-5-0",
+                        "country": "https://www.tapology.com/assets/flags/AZ-d06d676179ff49a1b7ec37455054c6f81b15b5064fa4739d8fd132f840a71c73.gif",
+                        "picture": "https://images.tapology.com/headshot_images/56450/icon/vugar_karimov_headshot.jpg?1446644377",
+                        "link": "https://www.tapology.com/fightcenter/fighters/56450-vugar-kyarimov"
+                    },
+                    "fighterB": {
+                        "name": "Kazumasa Majima",
+                        "record": "16-4-0",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/58945/icon/majimak.jpg?1402781420",
+                        "link": "https://www.tapology.com/fightcenter/fighters/58945-kazumasa-majima"
+                    },
+                    "fight_name": "Vugar Karamov v Kazumasa Majima",
+                    "id": "164631447323501169",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "108",
+                    "fighterA": {
+                        "name": "Ayaka Hamasaki",
+                        "record": "24-6-0",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/25649/icon/Ayaka-Hamasaki-hs.jpeg?1333651604",
+                        "link": "https://www.tapology.com/fightcenter/fighters/25649-ayaka-hamasaki"
+                    },
+                    "fighterB": {
+                        "name": "Claire Lopez",
+                        "record": "8-5-0",
+                        "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+                        "picture": "https://images.tapology.com/headshot_images/171420/icon/Claire-Lopez_hs.jpg?1629903205",
+                        "link": "https://www.tapology.com/fightcenter/fighters/171420-claire-lopez"
+                    },
+                    "fight_name": "Ayaka Hamasaki v Claire Lopez",
+                    "id": "2880713057800506157",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "146",
+                    "fighterA": {
+                        "name": "Takahiro Ashida",
+                        "record": "26-13-2",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/26432/icon/EP2x8s4UcAMgJBS.jpg?1601194751",
+                        "link": "https://www.tapology.com/fightcenter/fighters/26432-takahiro-ashida"
+                    },
+                    "fighterB": {
+                        "name": "Hiroaki Suzuki",
+                        "record": "3-3-0",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/153381/icon/Hiroaki_Suzuki2.png?1548113171",
+                        "link": "https://www.tapology.com/fightcenter/fighters/153381-hiroaki-suzuki"
+                    },
+                    "fight_name": "Takahiro Ashida v Hiroaki Suzuki",
+                    "id": "6233010776271707669",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "134",
+                    "fighterA": {
+                        "name": "Kenta Takizawa",
+                        "record": "13-10-0",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/68578/icon/Screenshot_20210427_031822.jpg?1619490049",
+                        "link": "https://www.tapology.com/fightcenter/fighters/68578-kenta-takizawa"
+                    },
+                    "fighterB": {
+                        "name": "Shohei Nose",
+                        "record": "11-4-2",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/151728/icon/Untitled7.jpg?1560011018",
+                        "link": "https://www.tapology.com/fightcenter/fighters/151728-shohei-nose"
+                    },
+                    "fight_name": "Kenta Takizawa v Shohei Nose",
+                    "id": "3212200950345444492",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "126",
+                    "fighterA": {
+                        "name": "Yuki Ito",
+                        "record": "15-5-0",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/131333/icon/Untitleff.jpg?1563024477",
+                        "link": "https://www.tapology.com/fightcenter/fighters/131333-yuki-ito"
+                    },
+                    "fighterB": {
+                        "name": "Masatoshi Ueda",
+                        "record": "19-9-2",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/44855/icon/uedam.jpg?1418488390",
+                        "link": "https://www.tapology.com/fightcenter/fighters/44855-masatatsu-ueda-shoryu"
+                    },
+                    "fight_name": "Yuki Ito v Masatoshi Ueda",
+                    "id": "8080128594756102565",
+                    "betfair_event_id": "32988781",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T02:25:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "170",
+                    "fighterA": {
+                        "name": "Daichi Abe",
+                        "record": "12-7-0",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/94542/icon/Daichi_Abe-hs.jpg?1538931522",
+                        "link": "https://www.tapology.com/fightcenter/fighters/94542-daiji-abe"
+                    },
+                    "fighterB": {
+                        "name": "Kota Shirakawa",
+                        "record": "4-4-0",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/143633/icon/outsider44_entry_kouta_shirakawa.jpg?1478389369",
+                        "link": "https://www.tapology.com/fightcenter/fighters/143633-kota-shirawaka"
+                    },
+                    "fight_name": "Daichi Abe v Kota Shirakawa",
+                    "id": "2157964665215771316",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "146",
+                    "fighterA": {
+                        "name": "Tural Ragimov",
+                        "record": "21-10-0",
+                        "country": "https://www.tapology.com/assets/flags/AZ-d06d676179ff49a1b7ec37455054c6f81b15b5064fa4739d8fd132f840a71c73.gif",
+                        "picture": "https://images.tapology.com/headshot_images/50197/icon/tural_ragimov_headshot.JPG?1394023373",
+                        "link": "https://www.tapology.com/fightcenter/fighters/50197-tural-ragimov"
+                    },
+                    "fighterB": {
+                        "name": "Hiroshige Tanaka",
+                        "record": "15-9-0",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/28662/icon/Hiroshige-Tanaka-hs.jpeg?1343840978",
+                        "link": "https://www.tapology.com/fightcenter/fighters/28662-hiroshige-tanaka-hanzo"
+                    },
+                    "fight_name": "Tural Ragimov v Hiroshige Tanaka",
+                    "id": "8710952306854698469",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "128",
+                    "fighterA": {
+                        "name": "Takumi Terada",
+                        "record": "Miyazaki, JP",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "/assets/logo/dark_on_light_67x67-63c341fd65340214a1ed00e4d0d3b897cc27b504600f4b1a8908283da2c810a1.gif",
+                        "link": "https://www.tapology.com/fightcenter/fighters/223332-takumi-terada"
+                    },
+                    "fighterB": {
+                        "name": "Takekiyo Tominaga",
+                        "record": "",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "/assets/logo/dark_on_light_67x67-63c341fd65340214a1ed00e4d0d3b897cc27b504600f4b1a8908283da2c810a1.gif",
+                        "link": "https://www.tapology.com/fightcenter/fighters/349356-taketo-tominaga"
+                    },
+                    "fight_name": "Takumi Terada v Takekiyo Tominaga",
+                    "id": "3586334631911061087",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "157",
+                    "fighterA": {
+                        "name": "Yusuke Yachi",
+                        "record": "25-13-0",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/7963/icon/Yusuke-Yachi-hs.jpeg?1338844074",
+                        "link": "https://www.tapology.com/fightcenter/fighters/7963-yusuke-yachi"
+                    },
+                    "fighterB": {
+                        "name": "Rikuto Shirakawa",
+                        "record": "11-9-1",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/58917/icon/Untitled.jpg?1545186151",
+                        "link": "https://www.tapology.com/fightcenter/fighters/58917-rikuto-yamada"
+                    },
+                    "fight_name": "Yusuke Yachi v Rikuto Shirakawa",
+                    "id": "6083861914809049159",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "132",
+                    "fighterA": {
+                        "name": "Ryoga Fukuchi",
+                        "record": "3-5-0",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/179098/icon/img_50e3dc3d8022af2cfcf624c3866e5bf421973.jpg?1614930421",
+                        "link": "https://www.tapology.com/fightcenter/fighters/179098-ryoga-fukuchi"
+                    },
+                    "fighterB": {
+                        "name": "Teppei Mochida",
+                        "record": "3-5-0",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/60074/icon/Untitlef.jpg?1658061709",
+                        "link": "https://www.tapology.com/fightcenter/fighters/60074-teppei-mochida"
+                    },
+                    "fight_name": "Ryoga Fukuchi v Teppei Mochida",
+                    "id": "3879270616467094450",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "134",
+                    "fighterA": {
+                        "name": "Taiki Yahiro",
+                        "record": "3-2-0",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": null,
+                        "link": "https://www.tapology.com/fightcenter/fighters/320614-daiki-yahiro"
+                    },
+                    "fighterB": {
+                        "name": "Yuto Araki",
+                        "record": "1-0-0",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": null,
+                        "link": "https://www.tapology.com/fightcenter/fighters/240025-yuto-araki"
+                    },
+                    "fight_name": "Taiki Yahiro v Yuto Araki",
+                    "id": "6165390980524752436",
+                    "betfair_event_id": "32988781",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T02:25:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "138",
+                    "fighterA": {
+                        "name": "Reito Bravely",
+                        "record": "",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "/assets/logo/dark_on_light_67x67-63c341fd65340214a1ed00e4d0d3b897cc27b504600f4b1a8908283da2c810a1.gif",
+                        "link": "https://www.tapology.com/fightcenter/fighters/255858-reito-bravely"
+                    },
+                    "fighterB": {
+                        "name": "Kyohei Furumura",
+                        "record": "",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/246803/icon/191215_knockout2821-%E3%82%B3%E3%83%94%E3%83%BC2.jpg?1577934699",
+                        "link": "https://www.tapology.com/fightcenter/fighters/246803-kyohei-furumura"
+                    },
+                    "fight_name": "Reito Bravely v Kyohei Furumura",
+                    "id": "6141116323081554352",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "138",
+                    "fighterA": {
+                        "name": "Hannya Hashimoto",
+                        "record": "",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/161494/icon/Hannya_Hashimoto2.png?1499652416",
+                        "link": "https://www.tapology.com/fightcenter/fighters/161494-hannya-hashimoto"
+                    },
+                    "fighterB": {
+                        "name": "Rikito",
+                        "record": "",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "/assets/logo/dark_on_light_67x67-63c341fd65340214a1ed00e4d0d3b897cc27b504600f4b1a8908283da2c810a1.gif",
+                        "link": "https://www.tapology.com/fightcenter/fighters/277331-rikito"
+                    },
+                    "fight_name": "Hannya Hashimoto v Rikito",
+                    "id": "1063365509521726010",
+                    "betfair_event_id": "32988781",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T02:25:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "117",
+                    "fighterA": {
+                        "name": "Keito Ishigo",
+                        "record": "",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "/assets/logo/dark_on_light_67x67-63c341fd65340214a1ed00e4d0d3b897cc27b504600f4b1a8908283da2c810a1.gif",
+                        "link": "https://www.tapology.com/fightcenter/fighters/313182-keito-ishigo"
+                    },
+                    "fighterB": {
+                        "name": "Satoshi Katashima",
+                        "record": "Oita, JP",
+                        "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/154426/icon/Katashima2.jpg?1491768628",
+                        "link": "https://www.tapology.com/fightcenter/fighters/154426-satoshi-katashima"
+                    },
+                    "fight_name": "Keito Ishigo v Satoshi Katashima",
+                    "id": "463011446115888562",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                }
+            ],
+            "updatedAt": "2024-02-19T11:07:12.042Z",
+            "id": "6761337869832066824",
+            "cardDate": "2024-02-24",
+            "partition": "8332317517827479074",
+            "_rid": "cqFvAKbJvBMKAAAAAAAAAA==",
+            "_self": "dbs/cqFvAA==/colls/cqFvAKbJvBM=/docs/cqFvAKbJvBMKAAAAAAAAAA==/",
+            "_etag": "\"0400ef79-0000-1100-0000-65d3c7c70000\"",
+            "_attachments": "attachments/",
+            "_ts": 1708378055
+        },
+        {
+            "title": "PFL vs. Bellator",
+            "date": "Saturday, February 24, 12:00 PM ET",
+            "link": "https://www.tapology.com/fightcenter/events/109606-pfl-vs-bellator-champs",
+            "fights": [
+                {
+                    "main": true,
+                    "weight": "265",
+                    "fighterA": {
+                        "name": "Renan Ferreira",
+                        "record": "12-3-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/87738/icon/Renan_Ferreira.jpg?1628003330",
+                        "link": "https://www.tapology.com/fightcenter/fighters/87738-renan-pobrema"
+                    },
+                    "fighterB": {
+                        "name": "Ryan Bader",
+                        "record": "31-7-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/37/icon/Bader-Ryan-TUF8-2.jpg?1423700988",
+                        "link": "https://www.tapology.com/fightcenter/fighters/ryan-bader-darth"
+                    },
+                    "fight_name": "Renan Ferreira v Ryan Bader",
+                    "id": "1578538984460505293",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "185",
+                    "fighterA": {
+                        "name": "Impa Kasanganay",
+                        "record": "15-3-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/148267/icon/Untitled7.jpg?1551776334",
+                        "link": "https://www.tapology.com/fightcenter/fighters/148267-impa-kasanganay"
+                    },
+                    "fighterB": {
+                        "name": "Johnny Eblen",
+                        "record": "14-0-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/140953/icon/Johnny_Eblen-hs.jpg?1602037023",
+                        "link": "https://www.tapology.com/fightcenter/fighters/140953-johnny-eblen-john"
+                    },
+                    "fight_name": "Impa Kasanganay v Johnny Eblen",
+                    "id": "2891191924023098884",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "182",
+                    "fighterA": {
+                        "name": "Ray Cooper III",
+                        "record": "25-9-1",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/21174/icon/Ray_Cooper.jpg?1534478923",
+                        "link": "https://www.tapology.com/fightcenter/fighters/21174-ray-cooper-iii-braddah-boy"
+                    },
+                    "fighterB": {
+                        "name": "Jason Jackson",
+                        "record": "17-4-0",
+                        "country": "https://www.tapology.com/assets/flags/JM-c2d658d1886b8d0bb6dde82fe194ede7deb47ead426d00779a931dac620095d6.gif",
+                        "picture": "https://images.tapology.com/headshot_images/26347/icon/Jason-Jackson.jpg?1594832748",
+                        "link": "https://www.tapology.com/fightcenter/fighters/26347-jason-jackson"
+                    },
+                    "fight_name": "Ray Cooper III v Jason Jackson",
+                    "id": "3911960275462751074",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "265",
+                    "fighterA": {
+                        "name": "Bruno Cappelozza",
+                        "record": "15-6-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/24968/icon/Bruno_Henrique_Cappelozza-hs.jpg?1615307466",
+                        "link": "https://www.tapology.com/fightcenter/fighters/24968-bruno-cappelozza"
+                    },
+                    "fighterB": {
+                        "name": "Vadim Nemkov",
+                        "record": "17-2-0",
+                        "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+                        "picture": "https://images.tapology.com/headshot_images/62209/icon/Vadim-Nemkov.jpg?1580013525",
+                        "link": "https://www.tapology.com/fightcenter/fighters/62209-vadim-nemkov"
+                    },
+                    "fight_name": "Bruno Cappelozza v Vadim Nemkov",
+                    "id": "2938736324413148660",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "205",
+                    "fighterA": {
+                        "name": "Thiago Santos",
+                        "record": "22-11-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/31174/icon/Thiago_Santos-hs.jpg?1537678751",
+                        "link": "https://www.tapology.com/fightcenter/fighters/31174-thiago-santos-marreta"
+                    },
+                    "fighterB": {
+                        "name": "Yoel Romero",
+                        "record": "15-7-0",
+                        "country": "https://www.tapology.com/assets/flags/CU-c8f714f6aaf0f0539c3f2dd4cc31d31992bb54a5966cf4c1e3bfc3f17991ed5a.gif",
+                        "picture": "https://images.tapology.com/headshot_images/16155/icon/Yoel-Romero-hs.jpg?1386105802",
+                        "link": "https://www.tapology.com/fightcenter/fighters/16155-yoel-romero-palacio"
+                    },
+                    "fight_name": "Thiago Santos v Yoel Romero",
+                    "id": "1952195755699812744",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Clay Collard",
+                        "record": "24-11-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/18435/icon/IMG_20201125_071110.jpg?1606288966",
+                        "link": "https://www.tapology.com/fightcenter/fighters/18435-clay-collard"
+                    },
+                    "fighterB": {
+                        "name": "AJ McKee Jr.",
+                        "record": "21-1-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/69323/icon/AJ_McKee_J-hsr.jpg?1518074786",
+                        "link": "https://www.tapology.com/fightcenter/fighters/69323-antonio-mckee-jr"
+                    },
+                    "fight_name": "Clay Collard v AJ McKee Jr.",
+                    "id": "8120747790514652172",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "145",
+                    "fighterA": {
+                        "name": "Gabriel Alves Braga",
+                        "record": "12-1-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/190856/icon/Untitled9.jpg?1553449406",
+                        "link": "https://www.tapology.com/fightcenter/fighters/190856-gabriel-alves"
+                    },
+                    "fighterB": {
+                        "name": "Aaron Pico",
+                        "record": "12-4-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/86018/icon/Aaron_Pico-hs.jpg?1548105276",
+                        "link": "https://www.tapology.com/fightcenter/fighters/86018-aaron-pico"
+                    },
+                    "fight_name": "Gabriel Alves Braga v Aaron Pico",
+                    "id": "5683330488951634660",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Biaggio Ali Walsh",
+                        "record": "0-0-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/335498/icon/2.png?1705429864",
+                        "link": "https://www.tapology.com/fightcenter/fighters/335498-biaggio-walsh"
+                    },
+                    "fighterB": {
+                        "name": "Emmanuel Palacio",
+                        "record": "1-0-0",
+                        "country": "https://www.tapology.com/assets/flags/AR-e8afc368c863ba2bc753ede7c665cebbc3b76bde616ed16882f5b0bf69ee0a23.gif",
+                        "picture": "https://images.tapology.com/headshot_images/423589/icon/palacio2.jpg?1705574301",
+                        "link": "https://www.tapology.com/fightcenter/fighters/423589-emmanuel-palacio-el-vikingo"
+                    },
+                    "fight_name": "Biaggio Ali Walsh v Emmanuel Palacio",
+                    "id": "8050210823168597455",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Claressa Shields",
+                        "record": "1-1-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/200636/icon/claressa-shields_edit_7205781466266096.jpg?1672165172",
+                        "link": "https://www.tapology.com/fightcenter/fighters/200636-claressa-shields"
+                    },
+                    "fighterB": {
+                        "name": "Kelsey DeSantis",
+                        "record": "1-2-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/42832/icon/Kelsey_DeSantis-sq.png?1705429533",
+                        "link": "https://www.tapology.com/fightcenter/fighters/42832-kelsey-de-santis"
+                    },
+                    "fight_name": "Claressa Shields v Kelsey DeSantis",
+                    "id": "6150556011925325999",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "145",
+                    "fighterA": {
+                        "name": "Abdullah Al-Qahtani",
+                        "record": "7-1-0",
+                        "country": "https://www.tapology.com/assets/flags/SA-30bb18a357d6419c3c5ba5de7dc185aa9d1e4165c00b661855c7eb4d7b9d33fa.gif",
+                        "picture": "https://images.tapology.com/headshot_images/150769/icon/Untitled4.jpg?1584017932",
+                        "link": "https://www.tapology.com/fightcenter/fighters/150769-abdullah-al-qahtani"
+                    },
+                    "fighterB": {
+                        "name": "Edukondala Rao",
+                        "record": "4-1-0",
+                        "country": "https://www.tapology.com/assets/flags/IN-ebb2160eac078010f59e14cc2d60f82ed55e107581093b922c9042d29c69ed4c.gif",
+                        "picture": "https://images.tapology.com/headshot_images/248878/icon/Screenshot.png?1705429603",
+                        "link": "https://www.tapology.com/fightcenter/fighters/248878-edukondal-rao"
+                    },
+                    "fight_name": "Abdullah Al-Qahtani v Edukondala Rao",
+                    "id": "4548596684756276997",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "125",
+                    "fighterA": {
+                        "name": "Malik Basahel",
+                        "record": "17-2-1",
+                        "country": "https://www.tapology.com/assets/flags/SA-30bb18a357d6419c3c5ba5de7dc185aa9d1e4165c00b661855c7eb4d7b9d33fa.gif",
+                        "picture": "https://images.tapology.com/headshot_images/253253/icon/Malik_Basahel-hs.jpg?1637450094",
+                        "link": "https://www.tapology.com/fightcenter/fighters/253253-malik-basahel"
+                    },
+                    "fighterB": {
+                        "name": "Vinicius Pereira",
+                        "record": "5-0-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/359110/icon/morcego2.jpg?1667118725",
+                        "link": "https://www.tapology.com/fightcenter/fighters/359110-vinicius-pereira-morcego"
+                    },
+                    "fight_name": "Malik Basahel v Vinicius Pereira",
+                    "id": "7724279880661205318",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                }
+            ],
+            "updatedAt": "2024-02-19T11:07:12.042Z",
+            "id": "1741861410015370708",
+            "cardDate": "2024-02-24",
+            "partition": "5396796147698608780",
+            "_rid": "cqFvAKbJvBMLAAAAAAAAAA==",
+            "_self": "dbs/cqFvAA==/colls/cqFvAKbJvBM=/docs/cqFvAKbJvBMLAAAAAAAAAA==/",
+            "_etag": "\"0400e579-0000-1100-0000-65d3c77f0000\"",
+            "_attachments": "attachments/",
+            "_ts": 1708377983
+        },
+        {
+            "title": "UFC Fight Night",
+            "date": "Saturday, February 24,  7:00 PM ET",
+            "link": "https://www.tapology.com/fightcenter/events/107471-ufc-fight-night",
+            "fights": [
+                {
+                    "main": true,
+                    "weight": "125",
+                    "fighterA": {
+                        "name": "Brandon Moreno",
+                        "record": "21-7-2",
+                        "country": "https://www.tapology.com/assets/flags/MX-1cc0876e76b73a2195de1b68812ac8c0812fe99c7ada8a43db91b6f1d28cd113.gif",
+                        "picture": "https://images.tapology.com/headshot_images/27833/icon/Brandon_Moreno.jpg?1562880379",
+                        "link": "https://www.tapology.com/fightcenter/fighters/27833-brandon-moreno-the-assassin"
+                    },
+                    "fighterB": {
+                        "name": "Brandon Royval",
+                        "record": "15-7-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/25031/icon/Brandon_Royval.jpg?1556806942",
+                        "link": "https://www.tapology.com/fightcenter/fighters/25031-brandon-royval"
+                    },
+                    "fight_name": "Brandon Moreno v Brandon Royval",
+                    "id": "3939405510572250199",
+                    "betfair_event_id": "32959214",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T05:45:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "145",
+                    "fighterA": {
+                        "name": "Yair Rodriguez",
+                        "record": "18-4-0",
+                        "country": "https://www.tapology.com/assets/flags/MX-1cc0876e76b73a2195de1b68812ac8c0812fe99c7ada8a43db91b6f1d28cd113.gif",
+                        "picture": "https://images.tapology.com/headshot_images/70995/icon/Yair-Rodriguez.jpg?1466043842",
+                        "link": "https://www.tapology.com/fightcenter/fighters/70995-yair-rodriguez"
+                    },
+                    "fighterB": {
+                        "name": "Brian Ortega",
+                        "record": "15-3-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/40994/icon/Brian_Ortega.jpg?1543771936",
+                        "link": "https://www.tapology.com/fightcenter/fighters/40994-brian-ortega"
+                    },
+                    "fight_name": "Yair Rodriguez v Brian Ortega",
+                    "id": "1732729247133700687",
+                    "betfair_event_id": "32927834",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T05:15:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Daniel Zellhuber",
+                        "record": "14-1-0",
+                        "country": "https://www.tapology.com/assets/flags/MX-1cc0876e76b73a2195de1b68812ac8c0812fe99c7ada8a43db91b6f1d28cd113.gif",
+                        "picture": "https://images.tapology.com/headshot_images/156784/icon/Daniel_Zellhuber-.jpg?1496777082",
+                        "link": "https://www.tapology.com/fightcenter/fighters/156784-daniel-olvera-zellhuber-zellhuber"
+                    },
+                    "fighterB": {
+                        "name": "Francisco Prado",
+                        "record": "12-1-0",
+                        "country": "https://www.tapology.com/assets/flags/AR-e8afc368c863ba2bc753ede7c665cebbc3b76bde616ed16882f5b0bf69ee0a23.gif",
+                        "picture": "https://images.tapology.com/headshot_images/230239/icon/Screenshot.png?1704842726",
+                        "link": "https://www.tapology.com/fightcenter/fighters/230239-francisco-prado"
+                    },
+                    "fight_name": "Daniel Zellhuber v Francisco Prado",
+                    "id": "5054711453603842131",
+                    "betfair_event_id": "32988776",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T04:45:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "135",
+                    "fighterA": {
+                        "name": "Raul Rosas Jr.",
+                        "record": "8-1-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/94654/icon/Raul_Rosas_Jr.-hs.jpg?1671499531",
+                        "link": "https://www.tapology.com/fightcenter/fighters/94654-raul-rosas"
+                    },
+                    "fighterB": {
+                        "name": "Ricky Turcios",
+                        "record": "12-3-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/46586/icon/Ricky-Turcios-hs.jpg?1379444026",
+                        "link": "https://www.tapology.com/fightcenter/fighters/46586-ricky-turcios"
+                    },
+                    "fight_name": "Raul Rosas Jr. v Ricky Turcios",
+                    "id": "3963428912738906957",
+                    "betfair_event_id": "32988777",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T04:15:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "115",
+                    "fighterA": {
+                        "name": "Yazmin Jauregui",
+                        "record": "10-1-0",
+                        "country": "https://www.tapology.com/assets/flags/MX-1cc0876e76b73a2195de1b68812ac8c0812fe99c7ada8a43db91b6f1d28cd113.gif",
+                        "picture": "https://images.tapology.com/headshot_images/207769/icon/Yazmin_Jauregui-hs.jpg?1652412576",
+                        "link": "https://www.tapology.com/fightcenter/fighters/207769-yasmine-jauregui"
+                    },
+                    "fighterB": {
+                        "name": "Sam Hughes",
+                        "record": "8-5-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/140901/icon/Sam_Hughes.jpg?1607451307",
+                        "link": "https://www.tapology.com/fightcenter/fighters/140901-sam-hughes"
+                    },
+                    "fight_name": "Yazmin Jauregui v Sam Hughes",
+                    "id": "3829039485130983117",
+                    "betfair_event_id": "32988778",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T03:45:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Manuel Torres",
+                        "record": "14-2-0",
+                        "country": "https://www.tapology.com/assets/flags/MX-1cc0876e76b73a2195de1b68812ac8c0812fe99c7ada8a43db91b6f1d28cd113.gif",
+                        "picture": "https://images.tapology.com/headshot_images/194607/icon/Manuel_Torres-hs.jpg?1629387652",
+                        "link": "https://www.tapology.com/fightcenter/fighters/194607-manuel-torres-el-loco"
+                    },
+                    "fighterB": {
+                        "name": "Chris Duncan",
+                        "record": "11-1-0",
+                        "country": "https://www.tapology.com/assets/flags/SC-dd39c9a5b97877709cbe836f26935cffa2980685af503de666eb608021ae6d4a.gif",
+                        "picture": "https://images.tapology.com/headshot_images/68484/icon/IMG_20200901_104118.jpg?1598953323",
+                        "link": "https://www.tapology.com/fightcenter/fighters/68484-chris-duncan"
+                    },
+                    "fight_name": "Manuel Torres v Chris Duncan",
+                    "id": "4744999841171916002",
+                    "betfair_event_id": "32988780",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T03:15:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "135",
+                    "fighterA": {
+                        "name": "Cristian Qui\u00f1onez",
+                        "record": "18-4-0",
+                        "country": "https://www.tapology.com/assets/flags/MX-1cc0876e76b73a2195de1b68812ac8c0812fe99c7ada8a43db91b6f1d28cd113.gif",
+                        "picture": "https://images.tapology.com/headshot_images/69208/icon/Cristian_Quin%CC%83onez-hs.jpg?1658982401",
+                        "link": "https://www.tapology.com/fightcenter/fighters/69208-christian-quionez-el-taylon"
+                    },
+                    "fighterB": {
+                        "name": "Raoni Barcelos",
+                        "record": "17-5-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/30448/icon/IMG_20210303_181639.jpg?1614795438",
+                        "link": "https://www.tapology.com/fightcenter/fighters/30448-raoni-barcellos"
+                    },
+                    "fight_name": "Cristian Qui\u00f1onez v Raoni Barcelos",
+                    "id": "5370424240572517405",
+                    "betfair_event_id": "32988782",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T02:35:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "125",
+                    "fighterA": {
+                        "name": "Jesus Aguilar",
+                        "record": "9-2-0",
+                        "country": "https://www.tapology.com/assets/flags/MX-1cc0876e76b73a2195de1b68812ac8c0812fe99c7ada8a43db91b6f1d28cd113.gif",
+                        "picture": "https://images.tapology.com/headshot_images/108511/icon/Jesus_Santos_Aguilar-hs.jpg?1652889915",
+                        "link": "https://www.tapology.com/fightcenter/fighters/108511-jesus-aguilar"
+                    },
+                    "fighterB": {
+                        "name": "Mateus Mendon\u00e7a",
+                        "record": "10-2-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/218144/icon/mateus2.jpg?1616372713",
+                        "link": "https://www.tapology.com/fightcenter/fighters/218144-matheus-mendonca-bocao"
+                    },
+                    "fight_name": "Jesus Aguilar v Mateus Mendon\u00e7a",
+                    "id": "1308251264615612106",
+                    "betfair_event_id": "32988781",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T02:25:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "125",
+                    "fighterA": {
+                        "name": "Edgar Ch\u00e1irez",
+                        "record": "10-5-0",
+                        "country": "https://www.tapology.com/assets/flags/MX-1cc0876e76b73a2195de1b68812ac8c0812fe99c7ada8a43db91b6f1d28cd113.gif",
+                        "picture": "https://images.tapology.com/headshot_images/80020/icon/chairez2.jpg?1669076998",
+                        "link": "https://www.tapology.com/fightcenter/fighters/80020-edgar-chaidez"
+                    },
+                    "fighterB": {
+                        "name": "Daniel Lacerda",
+                        "record": "11-5-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/162924/icon/miojo1.jpg?1664386143",
+                        "link": "https://www.tapology.com/fightcenter/fighters/162924-daniel-lacerda-miojo"
+                    },
+                    "fight_name": "Edgar Ch\u00e1irez v Daniel Lacerda",
+                    "id": "2066993879487483507",
+                    "betfair_event_id": "32988783",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T01:50:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Claudio Puelles",
+                        "record": "12-3-0",
+                        "country": "https://www.tapology.com/assets/flags/PE-f85092db2c51d3968a1ad4b9b03b0caa9fc0d4188d88a70eaef9798fdf24f3e9.gif",
+                        "picture": "https://images.tapology.com/headshot_images/53808/icon/Claudio_Puelles-hs.jpg?1668272036",
+                        "link": "https://www.tapology.com/fightcenter/fighters/53808-claudio-puelles"
+                    },
+                    "fighterB": {
+                        "name": "Fares Ziam",
+                        "record": "14-4-0",
+                        "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+                        "picture": "https://images.tapology.com/headshot_images/119061/icon/Fares_Ziam-hs.jpg?1667400450",
+                        "link": "https://www.tapology.com/fightcenter/fighters/119061-fares-ziam"
+                    },
+                    "fight_name": "Claudio Puelles v Fares Ziam",
+                    "id": "8090975449631217484",
+                    "betfair_event_id": "32988784",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T01:25:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "125",
+                    "fighterA": {
+                        "name": "Luis Rodr\u00edguez",
+                        "record": "16-2-0",
+                        "country": "https://www.tapology.com/assets/flags/MX-1cc0876e76b73a2195de1b68812ac8c0812fe99c7ada8a43db91b6f1d28cd113.gif",
+                        "picture": "https://images.tapology.com/headshot_images/165024/icon/Luis_Rodri%CC%81guez-hs.jpg?1577514894",
+                        "link": "https://www.tapology.com/fightcenter/fighters/165024-luis-rodrguez-lazyboy"
+                    },
+                    "fighterB": {
+                        "name": "Denys Bondar",
+                        "record": "19-4-0",
+                        "country": "https://www.tapology.com/assets/flags/UA-cb48655348d284775d0c64345f5019fd621aacffe2c219c74db8038ebba29c85.gif",
+                        "picture": "https://images.tapology.com/headshot_images/104652/icon/Denys_Bondar.jpg?1668809618",
+                        "link": "https://www.tapology.com/fightcenter/fighters/104652-denis-bondar"
+                    },
+                    "fight_name": "Luis Rodr\u00edguez v Denys Bondar",
+                    "id": "5670897420411057884",
+                    "betfair_event_id": "32988787",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T01:00:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "125",
+                    "fighterA": {
+                        "name": "Victor Altamirano",
+                        "record": "12-3-0",
+                        "country": "https://www.tapology.com/assets/flags/MX-1cc0876e76b73a2195de1b68812ac8c0812fe99c7ada8a43db91b6f1d28cd113.gif",
+                        "picture": "https://images.tapology.com/headshot_images/101415/icon/Victor_Altamirano-hs.jpg?1612760820",
+                        "link": "https://www.tapology.com/fightcenter/fighters/101415-victor-altamirano"
+                    },
+                    "fighterB": {
+                        "name": "Felipe dos Santos",
+                        "record": "7-1-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/247470/icon/CD6D6ABC-D045-47F4-B453-0E053300BB35.jpeg?1654150622",
+                        "link": "https://www.tapology.com/fightcenter/fighters/247470-felipe-dos-santos-lipe-detona"
+                    },
+                    "fight_name": "Victor Altamirano v Felipe dos Santos",
+                    "id": "7477800403398634184",
+                    "betfair_event_id": "32988785",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T00:35:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "145",
+                    "fighterA": {
+                        "name": "Muhammad Naimov",
+                        "record": "10-2-0",
+                        "country": "https://www.tapology.com/assets/flags/TJ-2b15c0defea66ee3481212e3abe217a37bcd36dacdf3ec7da3906928081a373c.gif",
+                        "picture": "https://images.tapology.com/headshot_images/136098/icon/Muhammadjon_Naimov-hs.png?1685460044",
+                        "link": "https://www.tapology.com/fightcenter/fighters/136098-muhammadjon-naimov"
+                    },
+                    "fighterB": {
+                        "name": "Erik Silva",
+                        "record": "9-2-0",
+                        "country": "https://www.tapology.com/assets/flags/VE-1f22b7acc417ffe6401066fb9e0ffc43a48c06965d9139c0d7a04afbd4e27642.gif",
+                        "picture": "https://images.tapology.com/headshot_images/126790/icon/Erik_Silva-hs.jpg?1645043723",
+                        "link": "https://www.tapology.com/fightcenter/fighters/126790-erik-silva"
+                    },
+                    "fight_name": "Muhammad Naimov v Erik Silva",
+                    "id": "5738635754980575074",
+                    "betfair_event_id": "32988786",
+                    "betfair_country_code": "GB",
+                    "betfair_open_date": "2024-02-25T00:10:00.000Z",
+                    "betfair_timezone": "GMT",
+                    "start_time": null,
+                    "end_time": null
+                }
+            ],
+            "updatedAt": "2024-02-19T11:07:12.042Z",
+            "id": "5110970267736980266",
+            "cardDate": "2024-02-24",
+            "partition": "899141911582297915",
+            "_rid": "cqFvAKbJvBMMAAAAAAAAAA==",
+            "_self": "dbs/cqFvAA==/colls/cqFvAKbJvBM=/docs/cqFvAKbJvBMMAAAAAAAAAA==/",
+            "_etag": "\"0400fc79-0000-1100-0000-65d3c7c80000\"",
+            "_attachments": "attachments/",
+            "_ts": 1708378056
+        },
+        {
+            "title": "ONE 166",
+            "date": "Friday, March  1,  7:30 AM ET",
+            "link": "https://www.tapology.com/fightcenter/events/108903-one-166-malykhin-vs-de-ridder",
+            "fights": [
+                {
+                    "main": true,
+                    "weight": "205",
+                    "fighterA": {
+                        "name": "Anatoly Malykhin",
+                        "record": "13-0-0",
+                        "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+                        "picture": "https://images.tapology.com/headshot_images/166677/icon/Anatoly-Malykhin-hs.jpg?1612325680",
+                        "link": "https://www.tapology.com/fightcenter/fighters/166677-anatoliy-malykhin"
+                    },
+                    "fighterB": {
+                        "name": "Reinier de Ridder",
+                        "record": "16-1-0",
+                        "country": "https://www.tapology.com/assets/flags/NL-950f29b50fc57eca1db9ad8046cee33cdbd8450530088f9b54a55701dd38cab3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/49983/icon/Reinier_de_Ridder.jpg?1662495255",
+                        "link": "https://www.tapology.com/fightcenter/fighters/49983-reinier-de-ridder"
+                    },
+                    "fight_name": "Anatoly Malykhin v Reinier de Ridder",
+                    "id": "2295869551654067019",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "125",
+                    "fighterA": {
+                        "name": "Jarred Brooks",
+                        "record": "20-2-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/40047/icon/Jarred-Brooks-hs.jpg?1519502176",
+                        "link": "https://www.tapology.com/fightcenter/fighters/40047-jarred-brooks"
+                    },
+                    "fighterB": {
+                        "name": "Joshua Pacio",
+                        "record": "21-4-0",
+                        "country": "https://www.tapology.com/assets/flags/PH-b05cbd5fbea0d9c557c0f879412ce20b22e39c95c3f650888f477fd7601c696b.gif",
+                        "picture": "https://images.tapology.com/headshot_images/94002/icon/Joshua_Pacio-hs.jpg?1544402668",
+                        "link": "https://www.tapology.com/fightcenter/fighters/94002-joshua-pacio"
+                    },
+                    "fight_name": "Jarred Brooks v Joshua Pacio",
+                    "id": "4267118015148311220",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "265",
+                    "fighterA": {
+                        "name": "Arjan Bhullar",
+                        "record": "11-2-0",
+                        "country": "https://www.tapology.com/assets/flags/CA-ce6ad43e18030f818ef194052e9587e6d9941cb4401751955611223ec2d2c848.gif",
+                        "picture": "https://images.tapology.com/headshot_images/77932/icon/Arjan-Singh-Bhullar.jpg?1550674927",
+                        "link": "https://www.tapology.com/fightcenter/fighters/77932-arjan-bhullar"
+                    },
+                    "fighterB": {
+                        "name": "Amir Aliakbari",
+                        "record": "13-3-0",
+                        "country": "https://www.tapology.com/assets/flags/IR-7ebd7bcd85e1c0f2539496035203787bc5f334a4b8951afe7fa5f4a2c55842ff.gif",
+                        "picture": "https://images.tapology.com/headshot_images/104120/icon/Ali-Akbari.png?1443040470",
+                        "link": "https://www.tapology.com/fightcenter/fighters/104120-amir-aliakbari"
+                    },
+                    "fight_name": "Arjan Bhullar v Amir Aliakbari",
+                    "id": "6432584002729661146",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "135",
+                    "fighterA": {
+                        "name": "Osamah Almarwai",
+                        "record": "",
+                        "country": "https://www.tapology.com/assets/flags/YE-ced8c7867540e0b29a97d4c377ca2614b740a34c5cfbbfbb615a9681cfd4642e.gif",
+                        "picture": "https://images.tapology.com/headshot_images/374293/icon/Osamah_Almarwai-hs.jpg?1676786674",
+                        "link": "https://www.tapology.com/fightcenter/fighters/374293-osamah-almarwai"
+                    },
+                    "fighterB": {
+                        "name": "Cleber Sousa",
+                        "record": "",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/217259/icon/Untitled7.jpg?1598560586",
+                        "link": "https://www.tapology.com/fightcenter/fighters/217259-cleber-sousa"
+                    },
+                    "fight_name": "Osamah Almarwai v Cleber Sousa",
+                    "id": "1963987572903274465",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Kai Tang",
+                        "record": "18-2-0",
+                        "country": "https://www.tapology.com/assets/flags/CN-39a4cba872f45e48783a6aa2584da07957177092136272167f4965b759420e9e.gif",
+                        "picture": "https://images.tapology.com/headshot_images/131298/icon/Screenshot_20220721_172343.jpg?1658420689",
+                        "link": "https://www.tapology.com/fightcenter/fighters/131298-kai-tang"
+                    },
+                    "fighterB": {
+                        "name": "Thanh Le",
+                        "record": "14-3-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/35551/icon/Thanh_Le-hs.jpg?1656169355",
+                        "link": "https://www.tapology.com/fightcenter/fighters/35551-thanh-lee"
+                    },
+                    "fight_name": "Kai Tang v Thanh Le",
+                    "id": "6435672014350704093",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "115",
+                    "fighterA": {
+                        "name": "Stamp Fairtex",
+                        "record": "11-2-0",
+                        "country": "https://www.tapology.com/assets/flags/TH-074f5641611b5366883e960c5077ad0dc605e2f0bde7270910c0e36bd5e3e19f.gif",
+                        "picture": "https://images.tapology.com/headshot_images/210910/icon/Stamp-hs.jpg?1549312328",
+                        "link": "https://www.tapology.com/fightcenter/fighters/210910-stamp"
+                    },
+                    "fighterB": {
+                        "name": "Denice Zamboanga",
+                        "record": "10-2-0",
+                        "country": "https://www.tapology.com/assets/flags/PH-b05cbd5fbea0d9c557c0f879412ce20b22e39c95c3f650888f477fd7601c696b.gif",
+                        "picture": "https://images.tapology.com/headshot_images/170743/icon/Denice_Zamboanga-hs.jpg?1600096755",
+                        "link": "https://www.tapology.com/fightcenter/fighters/170743-denice-zamboanga"
+                    },
+                    "fight_name": "Stamp Fairtex v Denice Zamboanga",
+                    "id": "468625418968552216",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "185",
+                    "fighterA": {
+                        "name": "Tye Ruotolo",
+                        "record": "San Diego, CA",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/214515/icon/Untitled6.jpg?1569930045",
+                        "link": "https://www.tapology.com/fightcenter/fighters/214515-tye-ruotolo"
+                    },
+                    "fighterB": {
+                        "name": "Izaak Michell",
+                        "record": "",
+                        "country": "https://www.tapology.com/assets/flags/AU-429ed070b76f87de04728ef13b9d68e308be36cf4444bb32eb97564ae7016ff1.gif",
+                        "picture": "https://images.tapology.com/headshot_images/423997/icon/iz_hs.png?1705860185",
+                        "link": "https://www.tapology.com/fightcenter/fighters/423997-izaak-michell"
+                    },
+                    "fight_name": "Tye Ruotolo v Izaak Michell",
+                    "id": "4011279491680084430",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "147",
+                    "fighterA": {
+                        "name": "Zuhayr Al-Qahtani",
+                        "record": "London, England",
+                        "country": "https://www.tapology.com/assets/flags/SA-30bb18a357d6419c3c5ba5de7dc185aa9d1e4165c00b661855c7eb4d7b9d33fa.gif",
+                        "picture": "https://images.tapology.com/headshot_images/219146/icon/20191213_203321.jpg?1576269244",
+                        "link": "https://www.tapology.com/fightcenter/fighters/219146-zuhayr-al-qahtani-the-arabian-warrior"
+                    },
+                    "fighterB": {
+                        "name": "Mehdi Zatout",
+                        "record": "",
+                        "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+                        "picture": "https://images.tapology.com/headshot_images/245050/icon/Mehdi_ZATOUT-hs.jpg?1575475749",
+                        "link": "https://www.tapology.com/fightcenter/fighters/245050-mehdi-zatout"
+                    },
+                    "fight_name": "Zuhayr Al-Qahtani v Mehdi Zatout",
+                    "id": "6506169563776409115",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                }
+            ],
+            "updatedAt": "2024-02-19T11:07:12.042Z",
+            "id": "5240715633951959787",
+            "cardDate": "2024-03-01",
+            "partition": "3744114003675169580",
+            "_rid": "cqFvAKbJvBMNAAAAAAAAAA==",
+            "_self": "dbs/cqFvAA==/colls/cqFvAKbJvBM=/docs/cqFvAKbJvBMNAAAAAAAAAA==/",
+            "_etag": "\"0400e779-0000-1100-0000-65d3c77f0000\"",
+            "_attachments": "attachments/",
+            "_ts": 1708377983
+        },
+        {
+            "title": "UFC Fight Night",
+            "date": "Saturday, March  2,  6:00 PM ET",
+            "link": "https://www.tapology.com/fightcenter/events/106064-ufc-fight-night",
+            "fights": [
+                {
+                    "main": true,
+                    "weight": "265",
+                    "fighterA": {
+                        "name": "Jairzinho Rozenstruik",
+                        "record": "13-5-0",
+                        "country": "https://www.tapology.com/assets/flags/SR-87468dd8f7bb4b7b464db98b33f911eaaa444ccbe22be7374b1d1808b26c89ba.gif",
+                        "picture": "https://images.tapology.com/headshot_images/62467/icon/Jairzinho_Rozenstruik-hs.jpg?1571280592",
+                        "link": "https://www.tapology.com/fightcenter/fighters/62467-jair-rozenstruik-bigi-boy"
+                    },
+                    "fighterB": {
+                        "name": "Shamil Gaziev",
+                        "record": "12-0-0",
+                        "country": "https://www.tapology.com/assets/flags/BH-1af9295f35c59660470849a555ee1002df1710271e499bd4d2a6447dd687ed07.gif",
+                        "picture": "https://images.tapology.com/headshot_images/201352/icon/Gaziev_HS.jpeg?1659626740",
+                        "link": "https://www.tapology.com/fightcenter/fighters/201352-shamil-gaziev"
+                    },
+                    "fight_name": "Jairzinho Rozenstruik v Shamil Gaziev",
+                    "id": "774590396309346216",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "205",
+                    "fighterA": {
+                        "name": "Vitor Petrino",
+                        "record": "10-0-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/158172/icon/Vitor_Petrino.png?1690584485",
+                        "link": "https://www.tapology.com/fightcenter/fighters/158172-vitor-petrino"
+                    },
+                    "fighterB": {
+                        "name": "Tyson Pedro",
+                        "record": "10-4-0",
+                        "country": "https://www.tapology.com/assets/flags/AU-429ed070b76f87de04728ef13b9d68e308be36cf4444bb32eb97564ae7016ff1.gif",
+                        "picture": "https://images.tapology.com/headshot_images/55878/icon/Tyson-Pedro-hs.jpg?1483636218",
+                        "link": "https://www.tapology.com/fightcenter/fighters/55878-tyson-pedro"
+                    },
+                    "fight_name": "Vitor Petrino v Tyson Pedro",
+                    "id": "8756999065483685674",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "185",
+                    "fighterA": {
+                        "name": "Eryk Anders",
+                        "record": "15-8-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/30666/icon/Eryk_Anders.jpg?1517462939",
+                        "link": "https://www.tapology.com/fightcenter/fighters/30666-eryk-anders"
+                    },
+                    "fighterB": {
+                        "name": "Jamie Pickett",
+                        "record": "13-10-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/38304/icon/Jamie_Pickett-hs.jpg?1483830410",
+                        "link": "https://www.tapology.com/fightcenter/fighters/38304-jamie-pickett"
+                    },
+                    "fight_name": "Eryk Anders v Jamie Pickett",
+                    "id": "8992644389985018394",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "125",
+                    "fighterA": {
+                        "name": "Alex Perez",
+                        "record": "24-7-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/13299/icon/alex-perez.jpg?1601654127",
+                        "link": "https://www.tapology.com/fightcenter/fighters/alex-perez"
+                    },
+                    "fighterB": {
+                        "name": "Muhammad Mokaev",
+                        "record": "10-0-0",
+                        "country": "https://www.tapology.com/assets/flags/GB-9ce2b73eb216fa090d2c8e018cad6c78ec081db738902213828d303c19fa104f.gif",
+                        "picture": "https://images.tapology.com/headshot_images/120417/icon/Mokaev_Muhammad-hs.jpg?1614742903",
+                        "link": "https://www.tapology.com/fightcenter/fighters/120417-muhammad-mokaev"
+                    },
+                    "fight_name": "Alex Perez v Muhammad Mokaev",
+                    "id": "7700004839102584418",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "125",
+                    "fighterA": {
+                        "name": "Matt Schnell",
+                        "record": "16-7-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/29221/icon/Matt_Schnell-hs.jpg?1549083934",
+                        "link": "https://www.tapology.com/fightcenter/fighters/29221-matt-schnell"
+                    },
+                    "fighterB": {
+                        "name": "Steve Erceg",
+                        "record": "11-1-0",
+                        "country": "https://www.tapology.com/assets/flags/AU-429ed070b76f87de04728ef13b9d68e308be36cf4444bb32eb97564ae7016ff1.gif",
+                        "picture": "https://images.tapology.com/headshot_images/132326/icon/Steve_Erceg-hs.png?1481756193",
+                        "link": "https://www.tapology.com/fightcenter/fighters/132326-stephen-erceg"
+                    },
+                    "fight_name": "Matt Schnell v Steve Erceg",
+                    "id": "8296419344419213219",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "135",
+                    "fighterA": {
+                        "name": "Umar Nurmagomedov",
+                        "record": "16-0-0",
+                        "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+                        "picture": "https://images.tapology.com/headshot_images/134206/icon/https___fansided.com_files_2022_03_ABC06592-hs.jpg?1656222100",
+                        "link": "https://www.tapology.com/fightcenter/fighters/134206-omar-nurmagomedov"
+                    },
+                    "fighterB": {
+                        "name": "Bekzat Almakhan",
+                        "record": "17-1-0",
+                        "country": "https://www.tapology.com/assets/flags/KZ-8d03a35853709f9b577baab346c7fb8276ee77904bc2a1798564c32498c4dd68.gif",
+                        "picture": "https://images.tapology.com/headshot_images/192704/icon/bekzat2.jpg?1699358064",
+                        "link": "https://www.tapology.com/fightcenter/fighters/192704-bekzat-almakhan"
+                    },
+                    "fight_name": "Umar Nurmagomedov v Bekzat Almakhan",
+                    "id": "2856894434503311420",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Joel Alvarez",
+                        "record": "20-3-0",
+                        "country": "https://www.tapology.com/assets/flags/ES-91d4b8264d3c9aff1c4797f9a5f4cdfe280dd87aeb2382788999487a234ffa25.gif",
+                        "picture": "https://images.tapology.com/headshot_images/97013/icon/Joel_Alvarez.jpg?1594914300",
+                        "link": "https://www.tapology.com/fightcenter/fighters/97013-joel-alvarez"
+                    },
+                    "fighterB": {
+                        "name": "\u013dudov\u00edt Klein",
+                        "record": "20-4-1",
+                        "country": "https://www.tapology.com/assets/flags/SK-bde384fdb35695760e98f1a52396339e78f7ec69913beba50f14e235eca03387.gif",
+                        "picture": "https://images.tapology.com/headshot_images/102094/icon/L%CC%8Cudovi%CC%81t_Klein.jpg?1645759523",
+                        "link": "https://www.tapology.com/fightcenter/fighters/102094-ludovit-klein"
+                    },
+                    "fight_name": "Joel Alvarez v \u013dudov\u00edt Klein",
+                    "id": "333912856729105135",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "135",
+                    "fighterA": {
+                        "name": "Vinicius Oliveira",
+                        "record": "19-3-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/50927/icon/Screen_Shot_2020-07-28_at_10.01.30_PM.png?1595984522",
+                        "link": "https://www.tapology.com/fightcenter/fighters/50927-vinicius-prego"
+                    },
+                    "fighterB": {
+                        "name": "Yanis Ghemmouri",
+                        "record": "12-2-0",
+                        "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+                        "picture": "https://images.tapology.com/headshot_images/98157/icon/IMG-20210607-WA0049.jpg?1689891493",
+                        "link": "https://www.tapology.com/fightcenter/fighters/98157-yanis-ghemmouri"
+                    },
+                    "fight_name": "Vinicius Oliveira v Yanis Ghemmouri",
+                    "id": "8454974749238122126",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "135",
+                    "fighterA": {
+                        "name": "Javid Basharat",
+                        "record": "14-0-0",
+                        "country": "https://www.tapology.com/assets/flags/AF-f2b747073487b313108c785cfc321bdc9005b321658d4369f230c9e755c76db0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/116280/icon/Javid_Basharat-hs.jpg?1628391073",
+                        "link": "https://www.tapology.com/fightcenter/fighters/116280-javid-bashrat"
+                    },
+                    "fighterB": {
+                        "name": "Aiemann Zahabi",
+                        "record": "10-2-0",
+                        "country": "https://www.tapology.com/assets/flags/CA-ce6ad43e18030f818ef194052e9587e6d9941cb4401751955611223ec2d2c848.gif",
+                        "picture": "https://images.tapology.com/headshot_images/25314/icon/Aiemann_Zahabi.jpg?1481731802",
+                        "link": "https://www.tapology.com/fightcenter/fighters/25314-aiemann-zahabi"
+                    },
+                    "fight_name": "Javid Basharat v Aiemann Zahabi",
+                    "id": "3987699652930161323",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Mohammad Yahya",
+                        "record": "12-4-0",
+                        "country": "https://www.tapology.com/assets/flags/AE-3935dbf4ea09c65904c93739db9137e36ac82d06d642b0ce4cb29c0f9d3a43e4.gif",
+                        "picture": "https://images.tapology.com/headshot_images/66362/icon/YAHYA.jpeg?1648428317",
+                        "link": "https://www.tapology.com/fightcenter/fighters/66362-mohammad-yahya"
+                    },
+                    "fighterB": {
+                        "name": "Brendon Marotte",
+                        "record": "8-2-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/117074/icon/Brendan-Marotte.jpg?1696810581",
+                        "link": "https://www.tapology.com/fightcenter/fighters/117074-brendan-marotte"
+                    },
+                    "fight_name": "Mohammad Yahya v Brendon Marotte",
+                    "id": "753347928504540343",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Loik Radzhabov",
+                        "record": "17-5-1",
+                        "country": "https://www.tapology.com/assets/flags/TJ-2b15c0defea66ee3481212e3abe217a37bcd36dacdf3ec7da3906928081a373c.gif",
+                        "picture": "https://images.tapology.com/headshot_images/95647/icon/Loik_Radzhabov.jpg?1629428111",
+                        "link": "https://www.tapology.com/fightcenter/fighters/95647-loik-razdhabov-jaguar-paw"
+                    },
+                    "fighterB": {
+                        "name": "A. Al-Selwady",
+                        "record": "15-3-0",
+                        "country": "https://www.tapology.com/assets/flags/PS-cc23c1fef2b9c4a46ef8658aaf2f6d6c308babf6fbaf04424cabb8e988dfa90a.gif",
+                        "picture": "https://images.tapology.com/headshot_images/77145/icon/1959427_261093640730850_1915676589_n.jpg?1686204006",
+                        "link": "https://www.tapology.com/fightcenter/fighters/77145-abdul-kareem-al-selwady"
+                    },
+                    "fight_name": "Loik Radzhabov v A. Al-Selwady",
+                    "id": "6741571946151170424",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "185",
+                    "fighterA": {
+                        "name": "Christian Leroy Duncan",
+                        "record": "9-1-0",
+                        "country": "https://www.tapology.com/assets/flags/EN-8827659e8d7420a63b539ec01ff4896ba38924164abd5a09457325e7b0bdf0fe.gif",
+                        "picture": "https://images.tapology.com/headshot_images/116334/icon/cld2.jpg?1700662938",
+                        "link": "https://www.tapology.com/fightcenter/fighters/116334-christian-duncan"
+                    },
+                    "fighterB": {
+                        "name": "Claudio Ribeiro",
+                        "record": "11-4-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/149468/icon/Untitled9.jpg?1568462691",
+                        "link": "https://www.tapology.com/fightcenter/fighters/149468-claudio-ribeiro"
+                    },
+                    "fight_name": "Christian Leroy Duncan v Claudio Ribeiro",
+                    "id": "5364693838323266047",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                }
+            ],
+            "updatedAt": "2024-02-19T11:07:12.042Z",
+            "id": "2175072939324237225",
+            "cardDate": "2024-03-02",
+            "partition": "899141911582297915",
+            "_rid": "cqFvAKbJvBMOAAAAAAAAAA==",
+            "_self": "dbs/cqFvAA==/colls/cqFvAKbJvBM=/docs/cqFvAKbJvBMOAAAAAAAAAA==/",
+            "_etag": "\"0400e879-0000-1100-0000-65d3c77f0000\"",
+            "_attachments": "attachments/",
+            "_ts": 1708377983
+        },
+        {
+            "title": "PFL Europe 1",
+            "date": "Thursday, March  7, 11:00 AM ET",
+            "link": "https://www.tapology.com/fightcenter/events/109693-pfl-europe-1-2024-regular-season",
+            "fights": [
+                {
+                    "main": true,
+                    "weight": "170",
+                    "fighterA": {
+                        "name": "C\u00e9dric Doumb\u00e9",
+                        "record": "5-0-0",
+                        "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+                        "picture": "https://images.tapology.com/headshot_images/237752/icon/cedric-doumbe-champion-glory-kickboxing-mma.jpg?1658864382",
+                        "link": "https://www.tapology.com/fightcenter/fighters/237752-cedric-doumbe-le-meilleur"
+                    },
+                    "fighterB": {
+                        "name": "Baysangur Chamsoudinov",
+                        "record": "7-0-0",
+                        "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+                        "picture": "https://images.tapology.com/headshot_images/245988/icon/Untitled12.jpg?1583581925",
+                        "link": "https://www.tapology.com/fightcenter/fighters/245988-chamsoudinov-baysangur"
+                    },
+                    "fight_name": "C\u00e9dric Doumb\u00e9 v Baysangur Chamsoudinov",
+                    "id": "1224429117220057196",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "170",
+                    "fighterA": {
+                        "name": "Abdoul Abdouraguimov",
+                        "record": "17-1-0",
+                        "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+                        "picture": "https://images.tapology.com/headshot_images/145174/icon/IMG_20200921_164603.jpg?1600699598",
+                        "link": "https://www.tapology.com/fightcenter/fighters/145174-abdoul-abdouraguimov"
+                    },
+                    "fighterB": {
+                        "name": "Jack Grant",
+                        "record": "19-7-0",
+                        "country": "https://www.tapology.com/assets/flags/GB-9ce2b73eb216fa090d2c8e018cad6c78ec081db738902213828d303c19fa104f.gif",
+                        "picture": "https://images.tapology.com/headshot_images/23770/icon/Jack-Grant-hs.jpg?1455663348",
+                        "link": "https://www.tapology.com/fightcenter/fighters/23770-jack-grant"
+                    },
+                    "fight_name": "Abdoul Abdouraguimov v Jack Grant",
+                    "id": "3303759033554973146",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Patrick Habirora",
+                        "record": "1-0-0",
+                        "country": "https://www.tapology.com/assets/flags/BE-f0249eb7f38004996f46975ade47d10918e9cf07260c581e4656af5f777c5c61.gif",
+                        "picture": "https://images.tapology.com/headshot_images/209285/icon/h46h46hw.png?1622478454",
+                        "link": "https://www.tapology.com/fightcenter/fighters/209285-patrick-habirora"
+                    },
+                    "fighterB": {
+                        "name": "Claudio Pacella",
+                        "record": "3-1-0",
+                        "country": "https://www.tapology.com/assets/flags/IT-467e73c3ad5da4d693fb9a9eb9cfa8e38cbea96275ec5cf7fb849ff539240035.gif",
+                        "picture": "https://images.tapology.com/headshot_images/214751/icon/cp.jpeg?1704138137",
+                        "link": "https://www.tapology.com/fightcenter/fighters/214751-claudio-pacella"
+                    },
+                    "fight_name": "Patrick Habirora v Claudio Pacella",
+                    "id": "8339818544719597348",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Jakub Kaszuba",
+                        "record": "11-0-0",
+                        "country": "https://www.tapology.com/assets/flags/PL-6bfbe1335d2bffff514135a578895add253182687b5e5a81ded6bbf986755f29.gif",
+                        "picture": "https://images.tapology.com/headshot_images/104186/icon/Screenshot_2023-10-08_at_12.29.55_AM.png?1696739423",
+                        "link": "https://www.tapology.com/fightcenter/fighters/104186-kuba-kaszuba"
+                    },
+                    "fighterB": {
+                        "name": "Kane Mousah",
+                        "record": "14-5-0",
+                        "country": "https://www.tapology.com/assets/flags/EN-8827659e8d7420a63b539ec01ff4896ba38924164abd5a09457325e7b0bdf0fe.gif",
+                        "picture": "https://images.tapology.com/headshot_images/65802/icon/Kane-Mousah-hs.jpg?1455663008",
+                        "link": "https://www.tapology.com/fightcenter/fighters/65802-kane-mousah-the-danger"
+                    },
+                    "fight_name": "Jakub Kaszuba v Kane Mousah",
+                    "id": "8163865800527749013",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Yazid Chouchane",
+                        "record": "10-4-0",
+                        "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+                        "picture": "https://images.tapology.com/headshot_images/94118/icon/Screen_Shot_2021-01-23_at_1.23.52_PM.png?1611426243",
+                        "link": "https://www.tapology.com/fightcenter/fighters/94118-yazid-chouchane"
+                    },
+                    "fighterB": {
+                        "name": "Ignacio Capella",
+                        "record": "7-1-0",
+                        "country": "https://www.tapology.com/assets/flags/ES-91d4b8264d3c9aff1c4797f9a5f4cdfe280dd87aeb2382788999487a234ffa25.gif",
+                        "picture": "https://images.tapology.com/headshot_images/80876/icon/IMG-20210209-WA0012.jpg?1612899263",
+                        "link": "https://www.tapology.com/fightcenter/fighters/80876-ignacio-capella"
+                    },
+                    "fight_name": "Yazid Chouchane v Ignacio Capella",
+                    "id": "601871021524688734",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Aleksandr Chizov",
+                        "record": "10-2-0",
+                        "country": "https://www.tapology.com/assets/flags/LV-efe69bdff9de7b2205899ae69dd32626745ca4c784202a4c2e94e676f7f9d0d1.gif",
+                        "picture": "https://images.tapology.com/headshot_images/123467/icon/Aleksandr_Chizov-hs.jpg?1662829136",
+                        "link": "https://www.tapology.com/fightcenter/fighters/123467-aleksandrs-iovs"
+                    },
+                    "fighterB": {
+                        "name": "Daniele Scatizzi",
+                        "record": "12-7-0",
+                        "country": "https://www.tapology.com/assets/flags/IT-467e73c3ad5da4d693fb9a9eb9cfa8e38cbea96275ec5cf7fb849ff539240035.gif",
+                        "picture": "https://images.tapology.com/headshot_images/100332/icon/IMG_20190219_221545.jpg?1550610967",
+                        "link": "https://www.tapology.com/fightcenter/fighters/100332-daniele-scatizzi-scat"
+                    },
+                    "fight_name": "Aleksandr Chizov v Daniele Scatizzi",
+                    "id": "8752948554448502794",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Connor Hughes",
+                        "record": "8-1-0",
+                        "country": "https://www.tapology.com/assets/flags/EN-8827659e8d7420a63b539ec01ff4896ba38924164abd5a09457325e7b0bdf0fe.gif",
+                        "picture": "https://images.tapology.com/headshot_images/165001/icon/Connor_Hughes_HS.jpg?1605992112",
+                        "link": "https://www.tapology.com/fightcenter/fighters/165001-connor-hughes"
+                    },
+                    "fighterB": {
+                        "name": "Anatolij Baal",
+                        "record": "10-3-1",
+                        "country": "https://www.tapology.com/assets/flags/DE-fe6537c9506b556831a53eea4a8923eb299737671943539aa4a09fe807ea12aa.gif",
+                        "picture": "https://images.tapology.com/headshot_images/66398/icon/Untitled3.jpg?1553461820",
+                        "link": "https://www.tapology.com/fightcenter/fighters/66398-anatoli-baar"
+                    },
+                    "fight_name": "Connor Hughes v Anatolij Baal",
+                    "id": "5066343400886696810",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "170",
+                    "fighterA": {
+                        "name": "Ibrahim Man\u00e9",
+                        "record": "13-4-0",
+                        "country": "https://www.tapology.com/assets/flags/GM-0e568b3ae6410c98484910e6c11a97a8bb0df1583b0446a312183e3ed7aae7ab.gif",
+                        "picture": "https://images.tapology.com/headshot_images/127116/icon/Ibrahim_Mane%CC%81-hs.jpg?1490551132",
+                        "link": "https://www.tapology.com/fightcenter/fighters/127116-ibrahim-man"
+                    },
+                    "fighterB": {
+                        "name": "Chequina Noso Pedro",
+                        "record": "8-3-0",
+                        "country": "https://www.tapology.com/assets/flags/NL-950f29b50fc57eca1db9ad8046cee33cdbd8450530088f9b54a55701dd38cab3.gif",
+                        "picture": "https://images.tapology.com/headshot_images/204277/icon/pedro2.jpg?1668267924",
+                        "link": "https://www.tapology.com/fightcenter/fighters/204277-chequina-noso-pedro"
+                    },
+                    "fight_name": "Ibrahim Man\u00e9 v Chequina Noso Pedro",
+                    "id": "8242422895866943007",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "170",
+                    "fighterA": {
+                        "name": "Marian Dimitrov",
+                        "record": "10-3-0",
+                        "country": "https://www.tapology.com/assets/flags/BG-9fddbdbeadb54235d6a75a62559d0e16c12c8e6162b7b2cc013a1f6931ffe70c.gif",
+                        "picture": "https://images.tapology.com/headshot_images/76955/icon/37606053_2619665361392271_86964649462175354880_n.jpg?1543566602",
+                        "link": "https://www.tapology.com/fightcenter/fighters/76955-marian-dimitrov"
+                    },
+                    "fighterB": {
+                        "name": "Erhan Kartal",
+                        "record": "11-2-0",
+                        "country": "https://www.tapology.com/assets/flags/AT-826172ba40c461b856ee6951e1f8344fd2f957734326225dbcfc9be3814dedeb.gif",
+                        "picture": "https://images.tapology.com/headshot_images/118261/icon/erhan_kartal_headshot_2.jpg?1485092574",
+                        "link": "https://www.tapology.com/fightcenter/fighters/118261-erhan-kartal"
+                    },
+                    "fight_name": "Marian Dimitrov v Erhan Kartal",
+                    "id": "5787024254671847282",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "170",
+                    "fighterA": {
+                        "name": "Yassin Najid",
+                        "record": "9-4-0",
+                        "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+                        "picture": "https://images.tapology.com/headshot_images/73742/icon/najid2.jpg?1668192171",
+                        "link": "https://www.tapology.com/fightcenter/fighters/73742-yassin-najid"
+                    },
+                    "fighterB": {
+                        "name": "Daniele Miceli",
+                        "record": "11-5-0",
+                        "country": "https://www.tapology.com/assets/flags/IT-467e73c3ad5da4d693fb9a9eb9cfa8e38cbea96275ec5cf7fb849ff539240035.gif",
+                        "picture": "https://images.tapology.com/headshot_images/122063/icon/daniele-miceli-hs.jpg?1452875258",
+                        "link": "https://www.tapology.com/fightcenter/fighters/122063-daniele-micelli"
+                    },
+                    "fight_name": "Yassin Najid v Daniele Miceli",
+                    "id": "5667164242727266370",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "170",
+                    "fighterA": {
+                        "name": "Tomasz \u0141angowski",
+                        "record": "6-4-0",
+                        "country": "https://www.tapology.com/assets/flags/PL-6bfbe1335d2bffff514135a578895add253182687b5e5a81ded6bbf986755f29.gif",
+                        "picture": "https://images.tapology.com/headshot_images/141106/icon/Untitledbs.jpg?1548758939",
+                        "link": "https://www.tapology.com/fightcenter/fighters/141106-tomek-angowski"
+                    },
+                    "fighterB": {
+                        "name": "Florim Zendeli",
+                        "record": "7-1-1",
+                        "country": "https://www.tapology.com/assets/flags/AL-bf1c6b91989edbf638e3dc8e3becaa37ec0bf26f4855e8ce6ad00e8c9acd8c17.gif",
+                        "picture": "https://images.tapology.com/headshot_images/257049/icon/florim-zendeli_hs.jpg?1634678634",
+                        "link": "https://www.tapology.com/fightcenter/fighters/257049-florim-zendeli"
+                    },
+                    "fight_name": "Tomasz \u0141angowski v Florim Zendeli",
+                    "id": "681622258448398146",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Mark Ewen",
+                        "record": "5-0-0",
+                        "country": "https://www.tapology.com/assets/flags/SC-dd39c9a5b97877709cbe836f26935cffa2980685af503de666eb608021ae6d4a.gif",
+                        "picture": "https://images.tapology.com/headshot_images/126749/icon/Untitled17.jpg?1598034028",
+                        "link": "https://www.tapology.com/fightcenter/fighters/126749-mark-ewen"
+                    },
+                    "fighterB": {
+                        "name": "Andreeas Binder",
+                        "record": "8-2-0",
+                        "country": "https://www.tapology.com/assets/flags/RO-f09a16fef6e4ef9b8da4cefb1fd9d9fd50de9196c1328f7fc22d8994cb41902d.gif",
+                        "picture": "https://images.tapology.com/headshot_images/103058/icon/Andreeas_Binder-hs.jpg?1629668351",
+                        "link": "https://www.tapology.com/fightcenter/fighters/103058-andreeas-binder"
+                    },
+                    "fight_name": "Mark Ewen v Andreeas Binder",
+                    "id": "1195109922854729783",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                }
+            ],
+            "updatedAt": "2024-02-19T11:07:12.042Z",
+            "id": "8354954584102364112",
+            "cardDate": "2024-03-07",
+            "partition": "2967199661545175802",
+            "_rid": "cqFvAKbJvBMPAAAAAAAAAA==",
+            "_self": "dbs/cqFvAA==/colls/cqFvAKbJvBM=/docs/cqFvAKbJvBMPAAAAAAAAAA==/",
+            "_etag": "\"0400e979-0000-1100-0000-65d3c77f0000\"",
+            "_attachments": "attachments/",
+            "_ts": 1708377983
+        },
+        {
+            "title": "UFC 299",
+            "date": "Saturday, March  9,  6:00 PM ET",
+            "link": "https://www.tapology.com/fightcenter/events/107061-ufc-299",
+            "fights": [
+                {
+                    "main": true,
+                    "weight": "135",
+                    "fighterA": {
+                        "name": "Sean O'Malley",
+                        "record": "17-1-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/68186/icon/Sean_O'Malley-hs.jpg?1583296159",
+                        "link": "https://www.tapology.com/fightcenter/fighters/68186-sean-omalley"
+                    },
+                    "fighterB": {
+                        "name": "Marlon Vera",
+                        "record": "23-8-1",
+                        "country": "https://www.tapology.com/assets/flags/EC-042d202099a523aa750061e24c02f26ce418774ece53e471fe323ac1115aee44.gif",
+                        "picture": "https://images.tapology.com/headshot_images/48144/icon/Screenshot_20220503_153453.jpg?1651588519",
+                        "link": "https://www.tapology.com/fightcenter/fighters/48144-marlon-vera-chito"
+                    },
+                    "fight_name": "Sean O'Malley v Marlon Vera",
+                    "id": "2864261540296069498",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Dustin Poirier",
+                        "record": "29-8-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/9008/icon/dustin-poirier-winner.jpg?1602858952",
+                        "link": "https://www.tapology.com/fightcenter/fighters/dustin-poirier-the-diamond"
+                    },
+                    "fighterB": {
+                        "name": "Benoit Saint-Denis",
+                        "record": "13-1-0",
+                        "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+                        "picture": "https://images.tapology.com/headshot_images/212810/icon/Benoit_Saint_Denis-hs.jpg?1651082395",
+                        "link": "https://www.tapology.com/fightcenter/fighters/212810-benoit-saint-denis"
+                    },
+                    "fight_name": "Dustin Poirier v Benoit Saint-Denis",
+                    "id": "8079843750863877932",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "170",
+                    "fighterA": {
+                        "name": "Gilbert Burns",
+                        "record": "22-6-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/31168/icon/Gilbert_Burns.jpg?1591711534",
+                        "link": "https://www.tapology.com/fightcenter/fighters/31168-gilbert-burns-durinho"
+                    },
+                    "fighterB": {
+                        "name": "Jack Della Maddalena",
+                        "record": "16-2-0",
+                        "country": "https://www.tapology.com/assets/flags/AU-429ed070b76f87de04728ef13b9d68e308be36cf4444bb32eb97564ae7016ff1.gif",
+                        "picture": "https://images.tapology.com/headshot_images/119831/icon/Jack_Della_Maddalena-hs.jpg?1654999749",
+                        "link": "https://www.tapology.com/fightcenter/fighters/119831-jack-della-maddalena"
+                    },
+                    "fight_name": "Gilbert Burns v Jack Della Maddalena",
+                    "id": "2214772140679045592",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "135",
+                    "fighterA": {
+                        "name": "Petr Yan",
+                        "record": "16-5-0",
+                        "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+                        "picture": "https://images.tapology.com/headshot_images/90075/icon/Petr_Yan.jpg?1536076102",
+                        "link": "https://www.tapology.com/fightcenter/fighters/90075-petr-yan"
+                    },
+                    "fighterB": {
+                        "name": "Yadong Song",
+                        "record": "21-7-1",
+                        "country": "https://www.tapology.com/assets/flags/CN-39a4cba872f45e48783a6aa2584da07957177092136272167f4965b759420e9e.gif",
+                        "picture": "https://images.tapology.com/headshot_images/47836/icon/Yadong_Song.jpg?1511195576",
+                        "link": "https://www.tapology.com/fightcenter/fighters/47836-yadong-song"
+                    },
+                    "fight_name": "Petr Yan v Yadong Song",
+                    "id": "4315480134403959353",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "170",
+                    "fighterA": {
+                        "name": "Kevin Holland",
+                        "record": "25-10-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/35757/icon/Kevin_Holland.jpg?1556655366",
+                        "link": "https://www.tapology.com/fightcenter/fighters/35757-kevin-holland"
+                    },
+                    "fighterB": {
+                        "name": "Michael Page",
+                        "record": "21-2-0",
+                        "country": "https://www.tapology.com/assets/flags/GB-9ce2b73eb216fa090d2c8e018cad6c78ec081db738902213828d303c19fa104f.gif",
+                        "picture": "https://images.tapology.com/headshot_images/21208/icon/Michael-Page-hs.jpg?1543601349",
+                        "link": "https://www.tapology.com/fightcenter/fighters/21208-michael-page"
+                    },
+                    "fight_name": "Kevin Holland v Michael Page",
+                    "id": "164464464271572620",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "135",
+                    "fighterA": {
+                        "name": "Pedro Munhoz",
+                        "record": "20-8-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/5243/icon/Pedro-Munhoz-hs.jpg?1393173016",
+                        "link": "https://www.tapology.com/fightcenter/fighters/5243-pedro-munoz-pedrinho"
+                    },
+                    "fighterB": {
+                        "name": "Kyler Phillips",
+                        "record": "11-2-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/93501/icon/Kyler_Phillips-hs.jpg?1599927918",
+                        "link": "https://www.tapology.com/fightcenter/fighters/93501-kyler-phillips"
+                    },
+                    "fight_name": "Pedro Munhoz v Kyler Phillips",
+                    "id": "3329279762675259715",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "125",
+                    "fighterA": {
+                        "name": "CJ Vergara",
+                        "record": "12-4-1",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/38340/icon/Carlos_Vergara-hs.png?1573500342",
+                        "link": "https://www.tapology.com/fightcenter/fighters/38340-carlos-vergara"
+                    },
+                    "fighterB": {
+                        "name": "Asu Almabaev",
+                        "record": "18-2-0",
+                        "country": "https://www.tapology.com/assets/flags/KZ-8d03a35853709f9b577baab346c7fb8276ee77904bc2a1798564c32498c4dd68.gif",
+                        "picture": "https://images.tapology.com/headshot_images/127726/icon/Screenshot_20221207_052446_com.android.gallery3d_edit_5834732048341449.jpg?1670390799",
+                        "link": "https://www.tapology.com/fightcenter/fighters/127726-khamzat-sakalov"
+                    },
+                    "fight_name": "CJ Vergara v Asu Almabaev",
+                    "id": "8111634513042967016",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "125",
+                    "fighterA": {
+                        "name": "Katlyn Chookagian",
+                        "record": "18-5-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/37760/icon/Katlyn_Chookagian-hs.jpg?1467070859",
+                        "link": "https://www.tapology.com/fightcenter/fighters/37760-katlyn-chookagian"
+                    },
+                    "fighterB": {
+                        "name": "Maycee Barber",
+                        "record": "13-2-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/143925/icon/Maycee-Barber.jpg?1634081883",
+                        "link": "https://www.tapology.com/fightcenter/fighters/143925-maycee-barber"
+                    },
+                    "fight_name": "Katlyn Chookagian v Maycee Barber",
+                    "id": "7086225016929581995",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "265",
+                    "fighterA": {
+                        "name": "Curtis Blaydes",
+                        "record": "17-4-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/51080/icon/Curtis_Blaydes-hs.jpg?1537808366",
+                        "link": "https://www.tapology.com/fightcenter/fighters/51080-curtis-blaydes"
+                    },
+                    "fighterB": {
+                        "name": "Jailton Almeida",
+                        "record": "20-2-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/151690/icon/Screenshot.png?1696877883",
+                        "link": "https://www.tapology.com/fightcenter/fighters/151690-jailton-junior-malhadinho"
+                    },
+                    "fight_name": "Curtis Blaydes v Jailton Almeida",
+                    "id": "8446418131153349971",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Mateusz Gamrot",
+                        "record": "23-2-0",
+                        "country": "https://www.tapology.com/assets/flags/PL-6bfbe1335d2bffff514135a578895add253182687b5e5a81ded6bbf986755f29.gif",
+                        "picture": "https://images.tapology.com/headshot_images/26305/icon/Mateusz_Gamrot.jpg?1543513540",
+                        "link": "https://www.tapology.com/fightcenter/fighters/26305-mateusz-gamrot"
+                    },
+                    "fighterB": {
+                        "name": "Rafael dos Anjos",
+                        "record": "32-15-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/40/icon/Rafael_dos_Anjos.jpg?1543267416",
+                        "link": "https://www.tapology.com/fightcenter/fighters/rafael-dos-anjos"
+                    },
+                    "fight_name": "Mateusz Gamrot v Rafael dos Anjos",
+                    "id": "8639821152671445418",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "185",
+                    "fighterA": {
+                        "name": "Michel Pereira",
+                        "record": "29-11-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/55575/icon/michel-pereira-of-brazil-poses-for-a-portrait-after-his-victory-during-the-ufc-fight-night2.jpg?1690210012",
+                        "link": "https://www.tapology.com/fightcenter/fighters/55575-michel-pereira"
+                    },
+                    "fighterB": {
+                        "name": "Micha\u0142 Oleksiejczuk",
+                        "record": "19-6-0",
+                        "country": "https://www.tapology.com/assets/flags/PL-6bfbe1335d2bffff514135a578895add253182687b5e5a81ded6bbf986755f29.gif",
+                        "picture": "https://images.tapology.com/headshot_images/61212/icon/michal_oleksiejczuk_new.png?1507928408",
+                        "link": "https://www.tapology.com/fightcenter/fighters/61212-michal-oleksiejczuk"
+                    },
+                    "fight_name": "Michel Pereira v Micha\u0142 Oleksiejczuk",
+                    "id": "6853518062729690242",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "265",
+                    "fighterA": {
+                        "name": "Robelis Despaigne",
+                        "record": "4-0-0",
+                        "country": "https://www.tapology.com/assets/flags/CU-c8f714f6aaf0f0539c3f2dd4cc31d31992bb54a5966cf4c1e3bfc3f17991ed5a.gif",
+                        "picture": "https://images.tapology.com/headshot_images/339509/icon/Fury_FC_84_Robelis_Despaigne_1.jpeg?1701883069",
+                        "link": "https://www.tapology.com/fightcenter/fighters/339509-robelis-despaigne"
+                    },
+                    "fighterB": {
+                        "name": "Josh Parisian",
+                        "record": "15-7-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/86139/icon/Josh_Parisian-hs.jpg?1599927502",
+                        "link": "https://www.tapology.com/fightcenter/fighters/86139-josh-parisian"
+                    },
+                    "fight_name": "Robelis Despaigne v Josh Parisian",
+                    "id": "2186125976013328471",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "125",
+                    "fighterA": {
+                        "name": "Joanne Wood",
+                        "record": "16-8-0",
+                        "country": "https://www.tapology.com/assets/flags/SC-dd39c9a5b97877709cbe836f26935cffa2980685af503de666eb608021ae6d4a.gif",
+                        "picture": "https://images.tapology.com/headshot_images/22500/icon/Joanne_Calderwood.jpg?1552344828",
+                        "link": "https://www.tapology.com/fightcenter/fighters/22500-joanne-calderwood"
+                    },
+                    "fighterB": {
+                        "name": "Maryna Moroz",
+                        "record": "11-5-0",
+                        "country": "https://www.tapology.com/assets/flags/UA-cb48655348d284775d0c64345f5019fd621aacffe2c219c74db8038ebba29c85.gif",
+                        "picture": "https://images.tapology.com/headshot_images/73990/icon/Maryna-Moroz-hs.jpg?1457106929",
+                        "link": "https://www.tapology.com/fightcenter/fighters/73990-marina-moroz"
+                    },
+                    "fight_name": "Joanne Wood v Maryna Moroz",
+                    "id": "1631290920664820795",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "205",
+                    "fighterA": {
+                        "name": "Philipe Lins",
+                        "record": "17-5-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/9874/icon/philipe-lins-of-brazil-poses-on-the-scale-during-the-ufc-fight-night-weigh-in-at-ufc-apex-on-crop.jpg?1690209761",
+                        "link": "https://www.tapology.com/fightcenter/fighters/9874-felipe-lins-felipao"
+                    },
+                    "fighterB": {
+                        "name": "Ion Cutelaba",
+                        "record": "17-9-1",
+                        "country": "https://www.tapology.com/assets/flags/MD-2a183deefcaca97f239bbb4dd7f0442ff212cabb065cd54fbf5c260006ee2ad4.gif",
+                        "picture": "https://images.tapology.com/headshot_images/34843/icon/Ion_Cutelaba-ha.jpg?1483671137",
+                        "link": "https://www.tapology.com/fightcenter/fighters/34843-ion-cutelaba"
+                    },
+                    "fight_name": "Philipe Lins v Ion Cutelaba",
+                    "id": "5790249661444096025",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                }
+            ],
+            "updatedAt": "2024-02-19T11:07:12.042Z",
+            "id": "723965501449763360",
+            "cardDate": "2024-03-09",
+            "partition": "3263440708817694972",
+            "_rid": "cqFvAKbJvBMQAAAAAAAAAA==",
+            "_self": "dbs/cqFvAA==/colls/cqFvAKbJvBM=/docs/cqFvAKbJvBMQAAAAAAAAAA==/",
+            "_etag": "\"0400ea79-0000-1100-0000-65d3c77f0000\"",
+            "_attachments": "attachments/",
+            "_ts": 1708377983
+        },
+        {
+            "title": "UFC Fight Night",
+            "date": "Saturday, March 16,  6:00 PM ET",
+            "link": "https://www.tapology.com/fightcenter/events/108288-ufc-fight-night",
+            "fights": [
+                {
+                    "main": true,
+                    "weight": "265",
+                    "fighterA": {
+                        "name": "Tai Tuivasa",
+                        "record": "15-6-0",
+                        "country": "https://www.tapology.com/assets/flags/AU-429ed070b76f87de04728ef13b9d68e308be36cf4444bb32eb97564ae7016ff1.gif",
+                        "picture": "https://images.tapology.com/headshot_images/120884/icon/241392853_400550864774697_4796056932633099163_n.jpg?1661655383",
+                        "link": "https://www.tapology.com/fightcenter/fighters/120884-tai-tuivasa-bam-bam"
+                    },
+                    "fighterB": {
+                        "name": "Marcin Tybura",
+                        "record": "24-8-0",
+                        "country": "https://www.tapology.com/assets/flags/PL-6bfbe1335d2bffff514135a578895add253182687b5e5a81ded6bbf986755f29.gif",
+                        "picture": "https://images.tapology.com/headshot_images/34449/icon/Marcin_Tybura.jpg?1592366680",
+                        "link": "https://www.tapology.com/fightcenter/fighters/34449-marcin-tybura-tybur"
+                    },
+                    "fight_name": "Tai Tuivasa v Marcin Tybura",
+                    "id": "1974385796540700920",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "205",
+                    "fighterA": {
+                        "name": "Kennedy Nzechukwu",
+                        "record": "12-4-0",
+                        "country": "https://www.tapology.com/assets/flags/NG-575bf37322d2ac63f8fb2c5d191599dcf13fc4dace1a6699945bdc7feb3793b4.gif",
+                        "picture": "https://images.tapology.com/headshot_images/119288/icon/Kennedy_%282%29.jpg?1514843402",
+                        "link": "https://www.tapology.com/fightcenter/fighters/119288-kennedy-nzechukwu"
+                    },
+                    "fighterB": {
+                        "name": "Ovince St. Preux",
+                        "record": "26-17-0",
+                        "country": "https://www.tapology.com/assets/flags/HT-afba28cfac75e2f00033901d101b94ddab5eea1c8593e398bb6aef55a5cfed47.gif",
+                        "picture": "https://images.tapology.com/headshot_images/1528/icon/Ovince_St._Preux.jpg?1546573124",
+                        "link": "https://www.tapology.com/fightcenter/fighters/ovince-st-preux"
+                    },
+                    "fight_name": "Kennedy Nzechukwu v Ovince St. Preux",
+                    "id": "6487651973671914290",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Mike Davis",
+                        "record": "10-2-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/51604/icon/Mike_Davis-hs.jpg?1554734680",
+                        "link": "https://www.tapology.com/fightcenter/fighters/51604-mike-davis"
+                    },
+                    "fighterB": {
+                        "name": "Natan Levy",
+                        "record": "8-1-0",
+                        "country": "https://www.tapology.com/assets/flags/IL-4f2cdf51eacceb854c7ec54633ad5d99dbfec958649a4e3e6a59ffb057fd4dbd.gif",
+                        "picture": "https://images.tapology.com/headshot_images/121270/icon/Natan_Levy-hs.jpg?1614020814",
+                        "link": "https://www.tapology.com/fightcenter/fighters/121270-natan-levy"
+                    },
+                    "fight_name": "Mike Davis v Natan Levy",
+                    "id": "6395363926335209847",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "135",
+                    "fighterA": {
+                        "name": "Pannie Kianzad",
+                        "record": "16-7-0",
+                        "country": "https://www.tapology.com/assets/flags/SE-95d4df00f6faac596e2154769f654e65156e2a0eac3c60b917e69f4d9e39dee8.gif",
+                        "picture": "https://images.tapology.com/headshot_images/36969/icon/Kian_%282%29.jpg?1515904681",
+                        "link": "https://www.tapology.com/fightcenter/fighters/36969-pannie-kianzad"
+                    },
+                    "fighterB": {
+                        "name": "Macy Chiasson",
+                        "record": "8-3-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/77737/icon/Macy_Chiasson.jpg?1543470776",
+                        "link": "https://www.tapology.com/fightcenter/fighters/77737-macy-chiasson"
+                    },
+                    "fight_name": "Pannie Kianzad v Macy Chiasson",
+                    "id": "2892000434530975831",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "145",
+                    "fighterA": {
+                        "name": "Josh Culibao",
+                        "record": "11-2-1",
+                        "country": "https://www.tapology.com/assets/flags/AU-429ed070b76f87de04728ef13b9d68e308be36cf4444bb32eb97564ae7016ff1.gif",
+                        "picture": "https://images.tapology.com/headshot_images/101823/icon/Joshua-Culibao.jpg?1598897558",
+                        "link": "https://www.tapology.com/fightcenter/fighters/101823-joshua-culibao"
+                    },
+                    "fighterB": {
+                        "name": "Danny Silva",
+                        "record": "8-1-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/174093/icon/Danny_Silva-hs.jpg?1660331099",
+                        "link": "https://www.tapology.com/fightcenter/fighters/174093-danny-silva"
+                    },
+                    "fight_name": "Josh Culibao v Danny Silva",
+                    "id": "6848806023399443669",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "125",
+                    "fighterA": {
+                        "name": "Ode Osbourne",
+                        "record": "12-6-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/50154/icon/Ode_Osbourne-hs.jpg?1550081639",
+                        "link": "https://www.tapology.com/fightcenter/fighters/50154-ode-osbourne"
+                    },
+                    "fighterB": {
+                        "name": "Jafel Filho",
+                        "record": "15-3-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/46690/icon/jafel2.jpg?1608234811",
+                        "link": "https://www.tapology.com/fightcenter/fighters/46690-jafel-cavalcante-filho"
+                    },
+                    "fight_name": "Ode Osbourne v Jafel Filho",
+                    "id": "1296529591937079873",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "145",
+                    "fighterA": {
+                        "name": "Christian Rodriguez",
+                        "record": "10-1-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/121190/icon/Christian-Rodriguez-hs.jpg?1660187042",
+                        "link": "https://www.tapology.com/fightcenter/fighters/121190-christian-rodriguez"
+                    },
+                    "fighterB": {
+                        "name": "Isaac Dulgarian",
+                        "record": "6-0-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/245772/icon/Untitled17.jpg?1597408707",
+                        "link": "https://www.tapology.com/fightcenter/fighters/245772-isaac-dulgarian"
+                    },
+                    "fight_name": "Christian Rodriguez v Isaac Dulgarian",
+                    "id": "6126424918135466225",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "170",
+                    "fighterA": {
+                        "name": "Bryan Battle",
+                        "record": "10-2-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/153353/icon/Bryan_Battle.png?1629294882",
+                        "link": "https://www.tapology.com/fightcenter/fighters/153353-bryan-battle"
+                    },
+                    "fighterB": {
+                        "name": "Ange Loosa",
+                        "record": "10-3-0",
+                        "country": "https://www.tapology.com/assets/flags/CH-16f88ef33fb6adf03093bb5d9935b5b34896d763fe8b93c7005a7208b76f949d.gif",
+                        "picture": "https://images.tapology.com/headshot_images/79954/icon/ange-loosa.jpg?1650155608",
+                        "link": "https://www.tapology.com/fightcenter/fighters/79954-ange-loosa"
+                    },
+                    "fight_name": "Bryan Battle v Ange Loosa",
+                    "id": "221496287702605650",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "115",
+                    "fighterA": {
+                        "name": "Cory McKenna",
+                        "record": "8-2-0",
+                        "country": "https://www.tapology.com/assets/flags/WA-070073e71da938368764801e6c208a8683db5917065d2b4018aeaefe2a5471de.gif",
+                        "picture": "https://images.tapology.com/headshot_images/81574/icon/Cory-McKenna-hs.jpg?1595726875",
+                        "link": "https://www.tapology.com/fightcenter/fighters/81574-cory-mckenna"
+                    },
+                    "fighterB": {
+                        "name": "Jaqueline Amorim",
+                        "record": "7-1-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/248605/icon/Jaqueline_Amorim-hs.png?1645889943",
+                        "link": "https://www.tapology.com/fightcenter/fighters/248605-jaqueline-amorim"
+                    },
+                    "fight_name": "Cory McKenna v Jaqueline Amorim",
+                    "id": "2370230515720141782",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "135",
+                    "fighterA": {
+                        "name": "Chad Anheliger",
+                        "record": "12-7-0",
+                        "country": "https://www.tapology.com/assets/flags/CA-ce6ad43e18030f818ef194052e9587e6d9941cb4401751955611223ec2d2c848.gif",
+                        "picture": "https://images.tapology.com/headshot_images/20364/icon/IMG_1211-hs.jpg?1494704937",
+                        "link": "https://www.tapology.com/fightcenter/fighters/20364-chad-anheliger"
+                    },
+                    "fighterB": {
+                        "name": "Charalampos Grigoriou",
+                        "record": "8-3-0",
+                        "country": "https://www.tapology.com/assets/flags/CY-8dfc6483cb5cbd80b86fe3a2f51f26c4e13a19ed227c46064bcab7e387702374.gif",
+                        "picture": "https://images.tapology.com/headshot_images/153363/icon/Charalampos_Grigoriou-hs.jpg?1560092058",
+                        "link": "https://www.tapology.com/fightcenter/fighters/153363-pampos-grigoriou"
+                    },
+                    "fight_name": "Chad Anheliger v Charalampos Grigoriou",
+                    "id": "8583143811179913196",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "185",
+                    "fighterA": {
+                        "name": "Gerald Meerschaert",
+                        "record": "35-17-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/6018/icon/Gerald_Meerschaert.jpg?1544408330",
+                        "link": "https://www.tapology.com/fightcenter/fighters/6018-gerald-meerschaert-the-machine"
+                    },
+                    "fighterB": {
+                        "name": "Bryan Barberena",
+                        "record": "18-11-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/16876/icon/Bryan_Barberena-hs.jpg?1544822483",
+                        "link": "https://www.tapology.com/fightcenter/fighters/16876-bryan-barberena"
+                    },
+                    "fight_name": "Gerald Meerschaert v Bryan Barberena",
+                    "id": "4160642821178064464",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "135",
+                    "fighterA": {
+                        "name": "Josiane Nunes",
+                        "record": "10-1-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/61258/icon/Josiane.png?1706044855",
+                        "link": "https://www.tapology.com/fightcenter/fighters/61258-josiane-nunes"
+                    },
+                    "fighterB": {
+                        "name": "Chelsea Chandler",
+                        "record": "5-2-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/134566/icon/Chand.png?1706044862",
+                        "link": "https://www.tapology.com/fightcenter/fighters/134566-chelsea-chandler"
+                    },
+                    "fight_name": "Josiane Nunes v Chelsea Chandler",
+                    "id": "2380976811600221723",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                }
+            ],
+            "updatedAt": "2024-02-19T11:07:12.042Z",
+            "id": "5335646168817823904",
+            "cardDate": "2024-03-16",
+            "partition": "899141911582297915",
+            "_rid": "cqFvAKbJvBMRAAAAAAAAAA==",
+            "_self": "dbs/cqFvAA==/colls/cqFvAKbJvBM=/docs/cqFvAKbJvBMRAAAAAAAAAA==/",
+            "_etag": "\"0400eb79-0000-1100-0000-65d3c77f0000\"",
+            "_attachments": "attachments/",
+            "_ts": 1708377983
+        },
+        {
+            "title": "Bellator 302",
+            "date": "Friday, March 22, 12:00 PM ET",
+            "link": "https://www.tapology.com/fightcenter/events/110094-bellator-mma-anderson-vs-moore",
+            "fights": [
+                {
+                    "main": true,
+                    "weight": "205",
+                    "fighterA": {
+                        "name": "Corey Anderson",
+                        "record": "17-6-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/29807/icon/Corey-Anderson-hs.jpeg?1422414160",
+                        "link": "https://www.tapology.com/fightcenter/fighters/29807-corey-anderson"
+                    },
+                    "fighterB": {
+                        "name": "Karl Moore",
+                        "record": "12-2-0",
+                        "country": "https://www.tapology.com/assets/flags/IE-3f973d9478a2318f1513cf34f7f6d0087cccdc961e1981231c6997a29dddf083.gif",
+                        "picture": "https://images.tapology.com/headshot_images/29590/icon/Karl_Moore-hs.jpg?1664139992",
+                        "link": "https://www.tapology.com/fightcenter/fighters/29590-karl-moore"
+                    },
+                    "fight_name": "Corey Anderson v Karl Moore",
+                    "id": "1718676183401860603",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "145",
+                    "fighterA": {
+                        "name": "Leah McCourt",
+                        "record": "8-3-0",
+                        "country": "https://www.tapology.com/assets/flags/NN-6d6ec941baa3426305fa0b0bfede7948501da1b8132e422a49218ce5246438f6.gif",
+                        "picture": "https://images.tapology.com/headshot_images/72446/icon/Leah_McCourt-hs.jpg?1576001057",
+                        "link": "https://www.tapology.com/fightcenter/fighters/72446-leah-mccourt"
+                    },
+                    "fighterB": {
+                        "name": "Sinead Kavanagh",
+                        "record": "9-6-0",
+                        "country": "https://www.tapology.com/assets/flags/IE-3f973d9478a2318f1513cf34f7f6d0087cccdc961e1981231c6997a29dddf083.gif",
+                        "picture": "https://images.tapology.com/headshot_images/66456/icon/Sinead_Kavanagh.jpg?1567446620",
+                        "link": "https://www.tapology.com/fightcenter/fighters/66456-sinead-kavanagh"
+                    },
+                    "fight_name": "Leah McCourt v Sinead Kavanagh",
+                    "id": "5655859903134938522",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "185",
+                    "fighterA": {
+                        "name": "Fabian Edwards",
+                        "record": "12-3-0",
+                        "country": "https://www.tapology.com/assets/flags/EN-8827659e8d7420a63b539ec01ff4896ba38924164abd5a09457325e7b0bdf0fe.gif",
+                        "picture": "https://images.tapology.com/headshot_images/106608/icon/IMG_20200901_094900.jpg?1598950731",
+                        "link": "https://www.tapology.com/fightcenter/fighters/106608-fabian-edwards"
+                    },
+                    "fighterB": {
+                        "name": "Aaron Jeffery",
+                        "record": "14-4-0",
+                        "country": "https://www.tapology.com/assets/flags/CA-ce6ad43e18030f818ef194052e9587e6d9941cb4401751955611223ec2d2c848.gif",
+                        "picture": "https://images.tapology.com/headshot_images/39683/icon/Aaron_Jeffery-hs.png?1552751575",
+                        "link": "https://www.tapology.com/fightcenter/fighters/39683-aaron-jeffery"
+                    },
+                    "fight_name": "Fabian Edwards v Aaron Jeffery",
+                    "id": "876836870857748470",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "145",
+                    "fighterA": {
+                        "name": "Jeremy Kennedy",
+                        "record": "19-3-0",
+                        "country": "https://www.tapology.com/assets/flags/CA-ce6ad43e18030f818ef194052e9587e6d9941cb4401751955611223ec2d2c848.gif",
+                        "picture": "https://images.tapology.com/headshot_images/21079/icon/Jeremy_Kennedy.jpg?1559927493",
+                        "link": "https://www.tapology.com/fightcenter/fighters/21079-jeremy-kennedy-fence"
+                    },
+                    "fighterB": {
+                        "name": "James Gallagher",
+                        "record": "12-2-0",
+                        "country": "https://www.tapology.com/assets/flags/IE-3f973d9478a2318f1513cf34f7f6d0087cccdc961e1981231c6997a29dddf083.gif",
+                        "picture": "https://images.tapology.com/headshot_images/69151/icon/James_Gallagher-hs.jpg?1534557306",
+                        "link": "https://www.tapology.com/fightcenter/fighters/69151-james-gallagher"
+                    },
+                    "fight_name": "Jeremy Kennedy v James Gallagher",
+                    "id": "1377738814559335957",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Tim Wilde",
+                        "record": "17-4-1",
+                        "country": "https://www.tapology.com/assets/flags/EN-8827659e8d7420a63b539ec01ff4896ba38924164abd5a09457325e7b0bdf0fe.gif",
+                        "picture": "https://images.tapology.com/headshot_images/51844/icon/Tim_Wilde.jpg?1549757299",
+                        "link": "https://www.tapology.com/fightcenter/fighters/51844-tim-wilde"
+                    },
+                    "fighterB": {
+                        "name": "Manoel Sousa",
+                        "record": "10-0-0",
+                        "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+                        "picture": "https://images.tapology.com/headshot_images/208204/icon/manoel2.jpg?1558503236",
+                        "link": "https://www.tapology.com/fightcenter/fighters/208204-emanuel-souza"
+                    },
+                    "fight_name": "Tim Wilde v Manoel Sousa",
+                    "id": "7109269244650199014",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": true,
+                    "weight": "135",
+                    "fighterA": {
+                        "name": "Ciaran Clarke",
+                        "record": "8-0-0",
+                        "country": "https://www.tapology.com/assets/flags/IE-3f973d9478a2318f1513cf34f7f6d0087cccdc961e1981231c6997a29dddf083.gif",
+                        "picture": "https://images.tapology.com/headshot_images/55691/icon/Ciaran_Clarke-hs.jpg?1687790044",
+                        "link": "https://www.tapology.com/fightcenter/fighters/55691-ciaran-clarke"
+                    },
+                    "fighterB": {
+                        "name": "Darius Mafi",
+                        "record": "4-1-0",
+                        "country": "https://www.tapology.com/assets/flags/GB-9ce2b73eb216fa090d2c8e018cad6c78ec081db738902213828d303c19fa104f.gif",
+                        "picture": "https://images.tapology.com/headshot_images/142420/icon/Darius_Mafi-hs.jpg?1568851578",
+                        "link": "https://www.tapology.com/fightcenter/fighters/142420-dariush-mafi"
+                    },
+                    "fight_name": "Ciaran Clarke v Darius Mafi",
+                    "id": "8387517086875416288",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "155",
+                    "fighterA": {
+                        "name": "Tofiq Musayev",
+                        "record": "22-5-0",
+                        "country": "https://www.tapology.com/assets/flags/AZ-d06d676179ff49a1b7ec37455054c6f81b15b5064fa4739d8fd132f840a71c73.gif",
+                        "picture": "https://images.tapology.com/headshot_images/60338/icon/IMG_20200609_055238.jpg?1591678853",
+                        "link": "https://www.tapology.com/fightcenter/fighters/60338-tofik-musaev"
+                    },
+                    "fighterB": {
+                        "name": "Alfie Davis",
+                        "record": "16-4-1",
+                        "country": "https://www.tapology.com/assets/flags/EN-8827659e8d7420a63b539ec01ff4896ba38924164abd5a09457325e7b0bdf0fe.gif",
+                        "picture": "https://images.tapology.com/headshot_images/52606/icon/alfie_davis_headshot_2.jpg?1535798357",
+                        "link": "https://www.tapology.com/fightcenter/fighters/52606-alfie-davies"
+                    },
+                    "fight_name": "Tofiq Musayev v Alfie Davis",
+                    "id": "2771405754335672272",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "145",
+                    "fighterA": {
+                        "name": "Nathan Kelly",
+                        "record": "9-2-0",
+                        "country": "https://www.tapology.com/assets/flags/IE-3f973d9478a2318f1513cf34f7f6d0087cccdc961e1981231c6997a29dddf083.gif",
+                        "picture": "https://images.tapology.com/headshot_images/78170/icon/Nathan_Kelly_HS.jpg?1633360759",
+                        "link": "https://www.tapology.com/fightcenter/fighters/78170-nathan-kelly"
+                    },
+                    "fighterB": {
+                        "name": "Vikas Singh Ruhil",
+                        "record": "12-7-0",
+                        "country": "https://www.tapology.com/assets/flags/IN-ebb2160eac078010f59e14cc2d60f82ed55e107581093b922c9042d29c69ed4c.gif",
+                        "picture": "https://images.tapology.com/headshot_images/39046/icon/Untitled13.jpg?1555336149",
+                        "link": "https://www.tapology.com/fightcenter/fighters/39046-vikas-singh"
+                    },
+                    "fight_name": "Nathan Kelly v Vikas Singh Ruhil",
+                    "id": "2823547185558410240",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                },
+                {
+                    "main": false,
+                    "weight": "265",
+                    "fighterA": {
+                        "name": "Abraham Bably",
+                        "record": "3-0-0",
+                        "country": "https://www.tapology.com/assets/flags/EN-8827659e8d7420a63b539ec01ff4896ba38924164abd5a09457325e7b0bdf0fe.gif",
+                        "picture": "https://images.tapology.com/headshot_images/248068/icon/Bably_Small.jpg?1657718907",
+                        "link": "https://www.tapology.com/fightcenter/fighters/248068-abraham-bably"
+                    },
+                    "fighterB": {
+                        "name": "Isaiah Pinson",
+                        "record": "3-0-0",
+                        "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+                        "picture": "https://images.tapology.com/headshot_images/339279/icon/ISAIAH_PINSON-hs.jpg?1666204759",
+                        "link": "https://www.tapology.com/fightcenter/fighters/339279-isaiah-pinson"
+                    },
+                    "fight_name": "Abraham Bably v Isaiah Pinson",
+                    "id": "6559327646187997525",
+                    "betfair_event_id": null,
+                    "betfair_country_code": null,
+                    "betfair_open_date": null,
+                    "betfair_timezone": null,
+                    "start_time": null,
+                    "end_time": null
+                }
+            ],
+            "updatedAt": "2024-02-19T11:07:12.042Z",
+            "id": "7268464907167803644",
+            "cardDate": "2024-03-22",
+            "partition": "8268283855846005123",
+            "_rid": "cqFvAKbJvBMSAAAAAAAAAA==",
+            "_self": "dbs/cqFvAA==/colls/cqFvAKbJvBM=/docs/cqFvAKbJvBMSAAAAAAAAAA==/",
+            "_etag": "\"0400ec79-0000-1100-0000-65d3c77f0000\"",
+            "_attachments": "attachments/",
+            "_ts": 1708377983
+        }
+    ],
+    "updatedAt": 1708378711
+}

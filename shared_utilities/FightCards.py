@@ -70,16 +70,16 @@ class FightCardsClient():
         fights = []
         for fight in fight_list:
             fight["fight_name"] = fight['fighterA']['name'] + ' v ' + fight['fighterB']['name']
-            
-            fight["fight_id"] = str(abs(hash(fight["fight_name"]))) # TODO: Don't need this...
-
-            # remove these so not to overwrite. 
+            fight["id"] = str(abs(hash(fight["fight_name"]))) # TODO: need this?...
              
-            # fight["betfair_event_id"] = None
-            # fight["betfair_country_code"] = None
-            # fight["betfair_open_date"] = None
-            # fight["betfair_timezone"] = None
-            # fight["start_time"] = None
-            # fight["end_time"] = None
+            fight["betfair_event_id"] = None
+            fight["betfair_country_code"] = None
+            fight["betfair_open_date"] = None
+            fight["betfair_timezone"] = None
+            fight["start_time"] = None
+            fight["end_time"] = None
+
+            #TODO:  process fighter: Remove url that doesn't start with https://
+
             fights.append(fight)
         return fights

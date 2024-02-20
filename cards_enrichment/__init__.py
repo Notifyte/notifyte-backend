@@ -55,6 +55,7 @@ def main(mytimer: func.TimerRequest) -> None:
                 { "op": "add", "path": "/fights/"+str(fight["index"])+"/betfair_event_id", "value": fight["betfair_event_id"] },
                 { "op": "add", "path": "/fights/"+str(fight["index"])+"/betfair_country_code", "value": fight["betfair_country_code"] },
                 { "op": "add", "path": "/fights/"+str(fight["index"])+"/betfair_open_date", "value": fight["betfair_open_date"] },
+                { "op": "add", "path": "/fights/"+str(fight["index"])+"/exp_start", "value": fight["betfair_open_date"][11:16]+" "+fight["betfair_timezone"]+"*"},
                 { "op": "add", "path": "/fights/"+str(fight["index"])+"/betfair_timezone", "value": fight["betfair_timezone"] }]
             
             response = fc_mma_cards.patch_item(item=card["id"], partition_key=card["link"], patch_operations=operations)
