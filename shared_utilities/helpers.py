@@ -3,9 +3,15 @@ import json
 import os
 from fuzzywuzzy import process
 
-def find_next_weekend():
+def find_next_weekend(previous=False):
+    # returns the current weekend or next weekend coming up.es
     # Get the current date
+    #TODO: Refactor
     current_date = datetime.now()
+    
+    if previous == True:
+        current_date = current_date - timedelta(days=7)
+    
     # Calculate the number of days until the next Saturday
     days_until_saturday = (5 - current_date.weekday() + 7) % 7
     # Calculate the date of the next Saturday
@@ -16,6 +22,11 @@ def find_next_weekend():
     next_monday = next_saturday + timedelta(days=2)
 
     return next_saturday.strftime('%Y-%m-%d'), next_sunday.strftime('%Y-%m-%d'), next_monday.strftime('%Y-%m-%d')
+
+
+def find_previous_weekend():
+    return find_next_weekend(previous=True)
+    
 
 
 def fuzzy_match_dict_list(fight_cards, betfair_events, fc_key='name', bfe_key='name'):

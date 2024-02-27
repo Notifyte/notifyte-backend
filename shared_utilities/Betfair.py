@@ -147,13 +147,16 @@ class BetfairClient():
         # logic to check if an event has started or not? Tested with Horse racing / may need to test with different event types 
         if inplay_false != []:
             print("Event has not started yet")
+            return False
         elif inplay_true != []:
             print("Event is Live")
             return True
         elif inplay_false == [] and inplay_true == []: 
             print("Event has not started or is finished")
+            return False
         else:
             print("error, both inplay and not inplay have markets")
+            return False
     
     
     # once per day, update events
