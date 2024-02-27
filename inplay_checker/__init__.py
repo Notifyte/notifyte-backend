@@ -40,9 +40,11 @@ def main(mytimer: func.TimerRequest) -> None:
         ,cx.betfair_event_id
         ,cx.fight_name
         ,cx.betfair_open_date
+        ,cx.start_time
     FROM   c
     JOIN   cx IN c.fights
-    WHERE cx.betfair_open_date BETWEEN '{next_saturday}' AND '{next_monday}'
+    WHERE (cx.betfair_open_date BETWEEN '{next_saturday}' AND '{next_monday}')
+    AND IS_NULL(cx.start_time)
     """
 
     results = fc_mma_cards.query_items(query=queryText, enable_cross_partition_query=True)
@@ -58,7 +60,7 @@ def main(mytimer: func.TimerRequest) -> None:
             time.sleep(0.4)
             print("CHECKING FIGHT: " + item["fight_name"])
             if bf_client.eventStartedChecker(item["betfair_event_id"]) == True:
-                operations =[{ "op": "add", "path": "/fights/"+str(idx)+"/fight_start_time", "value": int(time.time()) }]
+                operations =[{ "op": "add", "path": "/fights/"+str(idx)+"/start_time", "value": int(time.time()) }]
                 response = fc_mma_cards.patch_item(item=item["id"], partition_key=item["link"], patch_operations=operations)
 
 

@@ -140,9 +140,10 @@ class BetfairClient():
         return not_started,started_events,finished_events
 
         
-    def eventStartedChecker(self,event_ids): 
-        inplay_true = self.getMarkets(event_ids,"True")[0] # ["result"] # add for solo debugging 
-        inplay_false = self.getMarkets(event_ids,"False")[0] # ["result"] # add for solo debugging 
+    def eventStartedChecker(self,event_ids):
+        # event_ids must be a list of 1 event currently
+        inplay_true = self.getMarkets(event_ids,"True")[0]["result"]  
+        inplay_false = self.getMarkets(event_ids,"False")[0]["result"] 
         # logic to check if an event has started or not? Tested with Horse racing / may need to test with different event types 
         if inplay_false != []:
             print("Event has not started yet")
