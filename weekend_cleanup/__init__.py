@@ -55,12 +55,9 @@ def main(mytimer: func.TimerRequest) -> None:
     
     logging.info('Starting Incremental Checker next')
 
-    # check the api for 8 mins
-    t_end = time.time() + (8*60)+50
-    while time.time() < t_end:
-        for idx, item in  enumerate(items):
-            operations =[{ "op": "add", "path": "/fights/"+str(idx)+"/start_time", "value": 0 }]
-            response = fc_mma_cards.patch_item(item=item["id"], partition_key=item["link"], patch_operations=operations)
+    for idx, item in  enumerate(items):
+        operations =[{ "op": "add", "path": "/fights/"+str(idx)+"/start_time", "value": 0 }]
+        response = fc_mma_cards.patch_item(item=item["id"], partition_key=item["link"], patch_operations=operations)
 
 
 
