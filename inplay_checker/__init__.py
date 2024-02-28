@@ -60,7 +60,7 @@ def main(mytimer: func.TimerRequest) -> None:
             time.sleep(0.4)
             print("CHECKING FIGHT: " + item["fight_name"])
             if bf_client.eventStartedChecker(item["betfair_event_id"]) == True:
-                operations =[{ "op": "add", "path": "/fights/"+str(idx)+"/start_time", "value": int(time.time()) }]
+                operations =[{ "op": "add", "path": "/fights/"+str(idx)+"/start_time", "value": time.time() }]
                 response = fc_mma_cards.patch_item(item=item["id"], partition_key=item["link"], patch_operations=operations)
 
 
