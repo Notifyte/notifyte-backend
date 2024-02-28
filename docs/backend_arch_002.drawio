@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T10:38:21.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="65j8XhBmTh_wODg1bnCT" version="23.0.1" type="device">
+<mxfile host="app.diagrams.net" modified="2024-02-20T20:04:50.422Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="WcOJKGgCoQIwnbhJTWAN" version="23.1.5" type="device">
   <diagram name="Page-1" id="qHqsS2Qp47BwzDUpAq32">
-    <mxGraphModel dx="3807" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2848" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,13 +169,13 @@
         <mxCell id="R7IFzBQSjyvE0gLAGWgc-25" value="8.50 min loop checking each event has started." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-22" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPO6oM0pH5KyWb0bes64-6" value="Cron Trigger every 9 mins on weekend" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R7IFzBQSjyvE0gLAGWgc-22">
+        <mxCell id="VPO6oM0pH5KyWb0bes64-6" value="Cron Trigger every 9 mins on weekend" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-22" vertex="1">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPO6oM0pH5KyWb0bes64-9" value="Writes to fc_mma_cards start time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R7IFzBQSjyvE0gLAGWgc-22">
+        <mxCell id="VPO6oM0pH5KyWb0bes64-9" value="Writes to fc_mma_cards start time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-22" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPO6oM0pH5KyWb0bes64-10" value="&lt;b&gt;Also needs to trigger notificaiton&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R7IFzBQSjyvE0gLAGWgc-22">
+        <mxCell id="VPO6oM0pH5KyWb0bes64-10" value="&lt;b&gt;Also needs to trigger notificaiton&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="R7IFzBQSjyvE0gLAGWgc-22" vertex="1">
           <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7IFzBQSjyvE0gLAGWgc-27" value="DataSet Refresher" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
@@ -274,14 +274,17 @@
         <mxCell id="9zMGV_ne7uJBWCyzdSfv-23" value="Data Model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="369" y="840" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPO6oM0pH5KyWb0bes64-1" value="Deployed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="VPO6oM0pH5KyWb0bes64-1" value="Deployed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="-547.5" y="448" width="58.5" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="VPO6oM0pH5KyWb0bes64-4" value="Deployed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="VPO6oM0pH5KyWb0bes64-4" value="Deployed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="-460" y="580" width="58.5" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="VPO6oM0pH5KyWb0bes64-7" value="Deployed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="VPO6oM0pH5KyWb0bes64-7" value="Deployed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="-472" y="770" width="58.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VukAx2Q1tGUCG8CBMHu6-1" value="&lt;b&gt;Apple Developer programme £79/year&amp;nbsp;&lt;br&gt;to enable push notifications&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#36FF36;" vertex="1" parent="1">
+          <mxGeometry x="558" y="-10" width="100" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
