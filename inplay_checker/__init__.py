@@ -16,6 +16,8 @@ username = os.getenv("betfair_username") # app setting
 password = os.getenv("betfair_password") # app setting
 conn_string = os.getenv("cosmosdb_deets")
 
+event_type_id = 26420387 # mma
+
 
 def main(mytimer: func.TimerRequest) -> None:
     utc_timestamp = datetime.datetime.utcnow().replace(
@@ -64,8 +66,10 @@ def main(mytimer: func.TimerRequest) -> None:
 
     result = fc_mma_cards.query_items(query=queryText, enable_cross_partition_query=True)[0] # 0 = UFC events only / 1 event per weekend
 
-    # items = [item for item in results]
-    
+
+    # handle no results
+
+
     logging.info('Starting Incremental Checker next')
     
     # need to add in the expected start time updater 
@@ -76,20 +80,20 @@ def main(mytimer: func.TimerRequest) -> None:
         for idx, item in  enumerate(result["fights"]):
             time.sleep(0.4)
             print("CHECKING FIGHT: " + item["fight_name"])
-            if bf_client.eventStarztedChecker([item["betfair_event_id"]]) == True:
+            if bf_client.eventStartedChecker([item["betfair_event_id"]]) == True:
                 operations =[{ "op": "add", "path": "/fights/"+str(idx)+"/start_time", "value": time.time() }]
                 response = fc_mma_cards.patch_item(item=result["id"], partition_key=result["link"], patch_operations=operations) #happens once.
-                #TODO: log the response?
-            
-            # new_exp_start = bf_client.expStartChecker() # work out how to find this for individual event
-            # old_exp_start = 1 # read current expStart time from the fightstore.
-            # if old_exp_start != new_exp_start:
-            #     operations =[{ "op": "add", "path": "/fights/"+str(idx)+"/exp_start", "value": new_exp_start }]
-            #     response = fc_mma_cards.patch_item(item=item["id"], partition_key=item["link"], patch_operations=operations) #happens once.
+                print(str(response))
+        
+            # TODO: This does api call for each event get started check. May overload the BF API
+            new_exp_start = bf_client.listEventDetails(event_type_id=event_type_id, event_id=item["betfair_event_id"])[0]["event"]["openDate"]
 
+            if item["betfair_open_date"] != new_exp_start:
+                operations =[{ "op": "add", "path": "/fights/"+str(idx)+"/betfair_open_date", "value": new_exp_start},
+                             { "op": "add", "path": "/fights/"+str(idx)+"/betfair_open_date", "value": new_exp_start[11:16]+" "+item["betfair_timezone"]+"*"}] # same logic as enrichment
+                response = fc_mma_cards.patch_item(item=result["id"], partition_key=result["link"], patch_operations=operations) #happens once.
+                print(str(response))
 
-
-            
 
 
 

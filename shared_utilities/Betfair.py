@@ -44,6 +44,16 @@ class BetfairClient():
         response = requests.post(url, data=json_req, headers=self.header)
         return json.loads(response.text)
     
+
+    def listEventDetails(self, event_type_id, event_id):
+        endpoint = "https://api.betfair.com/exchange/betting/rest/v1.0/"
+        json_req='{"filter":{ "eventTypeIds": ['+str(event_type_id)+'], "eventIds": ['+str(event_id)+'] }}'
+        url = endpoint + "listEvents/"
+        response = requests.post(url, data=json_req, headers=self.header)
+        return json.loads(response.text)
+    
+
+
     def processEvents(self, event_list):
         # [{'name' if k == 'nsme' else k:v for k,v in elem.items()} for elem in my_list] # rename dict keys
         return [dict(item["event"], betfair_event_id=item['event']['id']) for item in event_list]
@@ -139,7 +149,7 @@ class BetfairClient():
         
         return not_started,started_events,finished_events
 
-        
+
     def eventStartedChecker(self,event_ids):
         # event_ids must be a list of 1 event currently
         inplay_true = self.getMarkets(event_ids,"True")[0]["result"]  
@@ -159,6 +169,12 @@ class BetfairClient():
             return False
     
     
+    def expStartChecker(self,event_id):
+        return None
+
+    # TODO: Estimated start time updates on weekends as we get close to fight start time!!!
+
+
     # once per day, update events
     
     def getTodayEvents(self,event_type_id):

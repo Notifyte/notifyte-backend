@@ -15,7 +15,7 @@ username = os.getenv("betfair_username") # app setting
 password = os.getenv("betfair_password") # app setting
 conn_string = os.getenv("cosmosdb_deets")
 
-event_id = 26420387 # mma
+event_type_id = 26420387 # mma
 def main(mytimer: func.TimerRequest) -> None:
     utc_timestamp = datetime.datetime.utcnow().replace(
         tzinfo=datetime.timezone.utc).isoformat()
@@ -26,7 +26,7 @@ def main(mytimer: func.TimerRequest) -> None:
 
     bf_client = BetfairClient(delay_api_key, username, password)
         
-    events = bf_client.listEvents(event_id)
+    events = bf_client.listEvents(event_type_id)
     data = bf_client.processEvents(events)
 
     storageClient = CosmosClient.from_connection_string(conn_str=conn_string)
